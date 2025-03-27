@@ -1,0 +1,545 @@
+# NOTE: I edited the checkmarks to ignore output format errors
+
+- Processing phys1
+Model parts = {'the procedure that yields the highest value for the curvature c33 is vv10', 'with a value of 46.1 gpa.'}
+GT parts = [{'vv10'}]
+Model parts = {'vv10'}
+GT parts = [{'vv10'}]
+Model parts = {'the final answer is: vv10'}
+GT parts = [{'vv10'}]
+Model parts = {'vv10'}
+GT parts = [{'vv10'}]
+    - select: ['✓', '✓', '✓', '✓']
+
+
+    Model parts = {'the final answer is: vv10'}
+GT parts = [{'vv10'}]
+Model parts = {'the final answer is: vv10'}
+GT parts = [{'vv10'}]
+Model parts = {'with a value of 46.1 gpa.', 'the vv10 procedure yields the highest value for the curvature c_{33}'}
+GT parts = [{'vv10'}]
+Model parts = {'with a value of 46.1 gpa.', 'the vv10 procedure yields the highest value for the curvature c_{33}'}
+GT parts = [{'vv10'}]
+    - select: ['✓', '✓', '✓', '✓']
+
+
+Model parts = {'the final answer is: vv10'}
+GT parts = [{'vv10'}]
+Model parts = {'the final answer is: vv10'}
+GT parts = [{'vv10'}]
+Model parts = {'the final answer is: vv10'}
+GT parts = [{'vv10'}]
+Model parts = {'46.1 gpa'}
+GT parts = [{'vv10'}]
+    - select: ['✓', '✓', '✓', '❌']
+
+-> Summary: 11/12 correct
+
+
+# Table
+[
+    {
+        "Procedure": "PBE + D2",
+        "a0 (\u00c5)": "2.461",
+        "c0 (\u00c5)": "6.444",
+        "B0 (GPa)": "40.2",
+        "B\u2032 0": "13.02",
+        "C33 (GPa)": "22.04",
+        "\u2212C333 (GPa)": "178",
+        "-Ecoh (eV/ atom)": "7.96",
+        "- Eb (meV/ atom)": "55.04",
+        "References": "This work"
+    },
+    {
+        "Procedure": "PBE + D3",
+        "a0 (\u00c5)": "2.464",
+        "c0 (\u00c5)": "6.965",
+        "B0 (GPa)": "23.8",
+        "B\u2032 0": "4.81",
+        "C33 (GPa)": "13.09",
+        "\u2212C333 (GPa)": "90",
+        "-Ecoh (eV/ atom)": "7.93",
+        "- Eb (meV/ atom)": "47.30",
+        "References": "This work"
+    },
+    {
+        "Procedure": "PBE + D3-BJ",
+        "a0 (\u00c5)": "2.464",
+        "c0 (\u00c5)": "6.745",
+        "B0 (GPa)": "30.1",
+        "B\u2032 0": "10.13",
+        "C33 (GPa)": "17.16",
+        "\u2212C333 (GPa)": "115",
+        "-Ecoh (eV/ atom)": "7.99",
+        "- Eb (meV/ atom)": "52.36",
+        "References": "This work"
+    },
+    {
+        "Procedure": "PBE + TS",
+        "a0 (\u00c5)": "2.458",
+        "c0 (\u00c5)": "6.665",
+        "B0 (GPa)": "56.1",
+        "B\u2032 0": "10.05",
+        "C33 (GPa)": "34.61",
+        "\u2212C333 (GPa)": "188",
+        "-Ecoh (eV/ atom)": "7.98",
+        "- Eb (meV/ atom)": "81.34",
+        "References": "This work"
+    },
+    {
+        "Procedure": "PBE + TS + SCS",
+        "a0 (\u00c5)": "2.461",
+        "c0 (\u00c5)": "6.633",
+        "B0 (GPa)": "40.5",
+        "B\u2032 0": "12.77",
+        "C33 (GPa)": "26.79",
+        "\u2212C333 (GPa)": "184",
+        "-Ecoh (eV/ atom)": "7.97",
+        "- Eb (meV/ atom)": "53.76",
+        "References": "This work"
+    },
+    {
+        "Procedure": "RPA",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.68",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "36",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "48",
+        "References": "[29]"
+    },
+    {
+        "Procedure": "ACFD-RPA",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.68",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "530",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "",
+        "References": "[56]"
+    },
+    {
+        "Procedure": "QMC",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.852",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "56",
+        "References": "[30]"
+    },
+    {
+        "Procedure": "LDA",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.66",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "29.5",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "24",
+        "References": "[29]"
+    },
+    {
+        "Procedure": "LDA",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.75",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "29.9",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "9.432",
+        "References": "[33]"
+    },
+    {
+        "Procedure": "PBE",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "7.809",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "1.2",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "0.399",
+        "References": "[33]"
+    },
+    {
+        "Procedure": "PBE",
+        "a0 (\u00c5)": "2.47",
+        "c0 (\u00c5)": "8.84",
+        "B0 (GPa)": "1",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "7.99",
+        "- Eb (meV/ atom)": "",
+        "References": "[42]"
+    },
+    {
+        "Procedure": "PBE",
+        "a0 (\u00c5)": "2.466",
+        "c0 (\u00c5)": "9.62",
+        "B0 (GPa)": "0.8",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "0.6",
+        "References": "[31]"
+    },
+    {
+        "Procedure": "revB86B",
+        "a0 (\u00c5)": "2.47",
+        "c0 (\u00c5)": "6.72",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "21.0",
+        "References": "[34]"
+    },
+    {
+        "Procedure": "C09 (vdw)",
+        "a0 (\u00c5)": "2.47",
+        "c0 (\u00c5)": "6.54",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "26.9",
+        "References": "[34]"
+    },
+    {
+        "Procedure": "cx13 (vdw)",
+        "a0 (\u00c5)": "2.47",
+        "c0 (\u00c5)": "6.65",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "23.0",
+        "References": "[34]"
+    },
+    {
+        "Procedure": "optPBE (vdW)",
+        "a0 (\u00c5)": "2.47",
+        "c0 (\u00c5)": "6.98",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "22.7",
+        "References": "[34]"
+    },
+    {
+        "Procedure": "optB88 (vdW)",
+        "a0 (\u00c5)": "2.47",
+        "c0 (\u00c5)": "6.76",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "25.1",
+        "References": "[34]"
+    },
+    {
+        "Procedure": "optB86B(vdW)",
+        "a0 (\u00c5)": "2.47",
+        "c0 (\u00c5)": "6.72",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "24.8",
+        "References": "[34]"
+    },
+    {
+        "Procedure": "vdW-DF",
+        "a0 (\u00c5)": "2.47",
+        "c0 (\u00c5)": "7.52",
+        "B0 (GPa)": "12",
+        "B\u2032 0": "",
+        "C33 (GPa)": "13",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "24",
+        "References": "[59]"
+    },
+    {
+        "Procedure": "DF1",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "7.199",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "23.0",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "18.90",
+        "References": "[33]"
+    },
+    {
+        "Procedure": "DF2",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.944",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "33.5",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "18.63",
+        "References": "[33]"
+    },
+    {
+        "Procedure": "DF1(PBE)",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.892",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "35.6",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "25.67",
+        "References": "[33]"
+    },
+    {
+        "Procedure": "VV10",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.777",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "46.1",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "27.07",
+        "References": "[33]"
+    },
+    {
+        "Procedure": "PBE + D2",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.740",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "44.0",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "21.15",
+        "References": "[33]"
+    },
+    {
+        "Procedure": "PBE + D2",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.45",
+        "B0 (GPa)": "38",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "8.10",
+        "- Eb (meV/ atom)": "",
+        "References": "[42]"
+    },
+    {
+        "Procedure": "PBE + D2",
+        "a0 (\u00c5)": "2.466",
+        "c0 (\u00c5)": "6.43",
+        "B0 (GPa)": "46.5",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "54.1",
+        "References": "[31]"
+    },
+    {
+        "Procedure": "PBE + TS",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.68",
+        "B0 (GPa)": "59",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "82",
+        "References": "[41]"
+    },
+    {
+        "Procedure": "PBE + TS",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.604",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "87.83",
+        "References": "[7]"
+    },
+    {
+        "Procedure": "PBE + TS + SCS",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.604",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "50.54",
+        "References": "[7]"
+    },
+    {
+        "Procedure": "PBE + TS + SCS",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.75",
+        "B0 (GPa)": "43",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "55",
+        "References": "[41]"
+    },
+    {
+        "Procedure": "PBE + TS + SCS + MBD",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.70",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "48",
+        "References": "[45]"
+    },
+    {
+        "Procedure": "Experiment",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "52 5 \u00b1",
+        "References": "[16]"
+    },
+    {
+        "Procedure": "Experiment",
+        "a0 (\u00c5)": "2.462",
+        "c0 (\u00c5)": "6.707",
+        "B0 (GPa)": "35.8 \u00b1 1.6",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "",
+        "References": "[53]"
+    },
+    {
+        "Procedure": "Experiment",
+        "a0 (\u00c5)": "2.463",
+        "c0 (\u00c5)": "6.712",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "38.7",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "",
+        "References": "[55]"
+    },
+    {
+        "Procedure": "Experiment",
+        "a0 (\u00c5)": "",
+        "c0 (\u00c5)": "",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "31 2 \u00b1",
+        "References": "[17]"
+    },
+    {
+        "Procedure": "Experiment",
+        "a0 (\u00c5)": "2.46",
+        "c0 (\u00c5)": "6.70",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "35",
+        "References": "[15]"
+    },
+    {
+        "Procedure": "Experiment",
+        "a0 (\u00c5)": "",
+        "c0 (\u00c5)": "",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "42.64",
+        "References": "[14]"
+    },
+    {
+        "Procedure": "Experiment",
+        "a0 (\u00c5)": "2.603",
+        "c0 (\u00c5)": "6.706",
+        "B0 (GPa)": "33.8",
+        "B\u2032 0": "8.9",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "",
+        "References": "[54]"
+    },
+    {
+        "Procedure": "Experiment",
+        "a0 (\u00c5)": "",
+        "c0 (\u00c5)": "",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "7.37",
+        "- Eb (meV/ atom)": "",
+        "References": "[57]"
+    },
+    {
+        "Procedure": "Experiment",
+        "a0 (\u00c5)": "",
+        "c0 (\u00c5)": "",
+        "B0 (GPa)": "",
+        "B\u2032 0": "",
+        "C33 (GPa)": "36.5",
+        "\u2212C333 (GPa)": "",
+        "-Ecoh (eV/ atom)": "",
+        "- Eb (meV/ atom)": "",
+        "References": "[60]"
+    },
+    {
+        "Procedure": "Reference datum",
+        "a0 (\u00c5)": "2.462",
+        "c0 (\u00c5)": "6.707",
+        "B0 (GPa)": "35.6",
+        "B\u2032 0": "8.9",
+        "C33 (GPa)": "37.6",
+        "\u2212C333 (GPa)": "530",
+        "-Ecoh (eV/ atom)": "7.37",
+        "- Eb (meV/ atom)": "48",
+        "References": "[29, 53\u201357]"
+    }
+]

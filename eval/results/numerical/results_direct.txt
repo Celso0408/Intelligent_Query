@@ -1,0 +1,51 @@
+Averaged results for direct inference from 5 tries:
+- Number of mismatches: 1.8/56
+
+-------------------------------------------
+
+# Try 1
+-------------------- Results ----------------------------
+Mismatch for method DF1 and property a0: None != 2.46
+
+-------------------- Summary ----------------------------
+- Total queries                    : 56
+- Number of mismatches or undefined: 1
+Error ratio = 1.7857142857142856%
+
+# Try 2
+-------------------- Results ----------------------------
+
+-------------------- Summary ----------------------------
+- Total queries                    : 56
+- Number of mismatches or undefined: 0
+Error ratio = 0.0%
+
+# Try 3
+-------------------- Results ----------------------------
+Mismatch for method DF1 and property a0: None != 2.46
+Mismatch for method DF1 and property c0: 6.892 != 7.199
+Mismatch for method DF1 and property c33: 35.6 != 23
+Mismatch for method DF1 and property eb: -25.67 != -18.9
+
+-------------------- Summary ----------------------------
+- Total queries                    : 56
+- Number of mismatches or undefined: 4
+Error ratio = 7.142857142857142%
+
+# Try 4
+-------------------- Results ----------------------------
+Mismatch for method DF1 and property a0: None != 2.46
+Mismatch for method DF1 and property c0: None != 7.199
+Mismatch for method DF1 and property c33: None != 23
+
+-------------------- Summary ----------------------------
+- Total queries                    : 56
+- Number of mismatches or undefined: 3
+Error ratio = 5.357142857142857%
+
+# Try 5
+-------------------- Summary ----------------------------
+- Total queries                    : 56
+- Number of mismatches or undefined: 1
+Error ratio = 1.7857142857142856%
+

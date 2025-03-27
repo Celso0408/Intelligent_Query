@@ -1,0 +1,81 @@
+Model parts = {'with a value of 34.61 gpa.', 'the ts procedure yields the highest value for the curvature c_{33}'}
+GT parts = [{'vv10'}]
+Model parts = {'the final answer is: pbe + ts'}
+GT parts = [{'vv10'}]
+Model parts = {'with a value of 34.61 gpa.', 'the ts procedure yields the highest value for the curvature c_{33}'}
+GT parts = [{'vv10'}]
+Model parts = {'the final answer is: $\\boxed{rpa}$'}
+GT parts = [{'vv10'}]
+    - select: ['❌', '❌', '❌', '❌']
+
+Model parts = {'with a value of 34.61 gpa.', 'the ts procedure yields the highest value for the curvature c_{33}'}
+GT parts = [{'vv10'}]
+Model parts = {'the ts procedure yields the highest value for the curvature c_{33} among the calculated results.'}
+GT parts = [{'vv10'}]
+Model parts = {'with a value of 34.61 gpa.', 'the ts procedure yields the highest value for the curvature c_{33}'}
+GT parts = [{'vv10'}]
+Model parts = {'with a value of 34.61 gpa.', 'the ts procedure yields the highest value for the curvature c_{33}'}
+GT parts = [{'vv10'}]
+    - select: ['❌', '❌', '❌', '❌']
+
+Model parts = {'the ts procedure yields the highest value for the curvature c_{33}', 'with a value of 34.61 gpa.'}
+GT parts = [{'vv10'}]
+Model parts = {'the ts procedure yields the highest value for the curvature c_{33}', 'with a value of 34.61 gpa.'}
+GT parts = [{'vv10'}]
+Model parts = {'the final answer is: $\\boxed{rpa}$'}
+GT parts = [{'vv10'}]
+Model parts = {'the final answer is: the ts procedure'}
+GT parts = [{'vv10'}]
+    - select: ['❌', '❌', '❌', '❌']
+
+
+-> Summary: 0/12 correct
+
+# Table
+
+|  |  |  |  |  |  |  | −Ecoh | −Eb |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Procedure | a0 (Å) | c0 (Å) | B0 (GPa) | B′ 0 | C33 (GPa) | −C333 (GPa) | (eV/ atom) | (meV/ atom) | References |
+| PBE | 2.466 | 8.755 | 1.6 | 15.70 | 0.55 | 4 | 7.85 | 1.2 | This work |
+| PBE + D2 | 2.461 | 6.444 | 40.2 | 13.02 | 22.04 | 178 | 7.96 | 55.04 | This work |
+| PBE + D3 | 2.464 | 6.965 | 23.8 | 4.81 | 13.09 | 90 | 7.93 | 47.30 | This work |
+| PBE + D3-BJ | 2.464 | 6.745 | 30.1 | 10.13 | 17.16 | 115 | 7.99 | 52.36 | This work |
+| PBE + TS | 2.458 | 6.665 | 56.1 | 10.05 | 34.61 | 188 | 7.98 | 81.34 | This work |
+| PBE + TS + SCS | 2.461 | 6.633 | 40.5 | 12.77 | 26.79 | 184 | 7.97 | 53.76 | This work |
+| RPA | 2.46 | 6.68 |  |  | 36 |  |  | 48 | [29] |
+| ACFD-RPA | 2.46 | 6.68 |  |  |  | 530 |  |  | [56] |
+| QMC | 2.46 | 6.852 |  |  |  |  |  | 56 | [30] |
+| LDA | 2.46 | 6.66 |  |  | 29.5 |  |  | 24 | [29] |
+| LDA | 2.46 | 6.75 |  |  | 29.9 |  |  | 9.432 | [33] |
+| PBE | 2.46 | 7.809 |  |  | 1.2 |  |  | 0.399 | [33] |
+| PBE | 2.47 | 8.84 | 1 |  |  |  | 7.99 |  | [42] |
+| PBE | 2.466 | 9.62 | 0.8 |  |  |  |  | 0.6 | [31] |
+| revB86B | 2.47 | 6.72 |  |  |  |  |  | 21.0 | [34] |
+| C09 (vdw) | 2.47 | 6.54 |  |  |  |  |  | 26.9 | [34] |
+| cx13 (vdw) | 2.47 | 6.65 |  |  |  |  |  | 23.0 | [34] |
+| optPBE (vdW) | 2.47 | 6.98 |  |  |  |  |  | 22.7 | [34] |
+| optB88 (vdW) | 2.47 | 6.76 |  |  |  |  |  | 25.1 | [34] |
+| optB86B(vdW) | 2.47 | 6.72 |  |  |  |  |  | 24.8 | [34] |
+| vdW-DF | 2.47 | 7.52 | 12 |  | 13 |  |  | 24 | [59] |
+| DF1 | 2.46 | 7.199 |  |  | 23.0 |  |  | 18.90 | [33] |
+| DF2 | 2.46 | 6.944 |  |  | 33.5 |  |  | 18.63 | [33] |
+| DF1(PBE) | 2.46 | 6.892 |  |  | 35.6 |  |  | 25.67 | [33] |
+| VV10 | 2.46 | 6.777 |  |  | 46.1 |  |  | 27.07 | [33] |
+| PBE + D2 | 2.46 | 6.740 |  |  | 44.0 |  |  | 21.15 | [33] |
+| PBE + D2 | 2.46 | 6.45 | 38 |  |  |  | 8.10 |  | [42] |
+| PBE + D2 | 2.466 | 6.43 | 46.5 |  |  |  |  | 54.1 | [31] |
+| PBE + TS | 2.46 | 6.68 | 59 |  |  |  |  | 82 | [41] |
+| PBE + TS | 2.46 | 6.604 |  |  |  |  |  | 87.83 | [7] |
+| PBE + TS + SCS | 2.46 | 6.604 |  |  |  |  |  | 50.54 | [7] |
+| PBE + TS + SCS | 2.46 | 6.75 | 43 |  |  |  |  | 55 | [41] |
+| PBE + TS + SCS + MBD | 2.46 | 6.70 |  |  |  |  |  | 48 | [45] |
+| Experiment | 2.46 |  |  |  |  |  |  | 52 5 ± | [16] |
+| Experiment | 2.462 | 6.707 | 35.8 ± 1.6 |  |  |  |  |  | [53] |
+| Experiment | 2.463 | 6.712 |  |  | 38.7 |  |  |  | [55] |
+| Experiment |  |  |  |  |  |  |  | 31 2 ± | [17] |
+| Experiment | 2.46 | 6.70 |  |  |  |  |  | 35 | [15] |
+| Experiment |  |  |  |  |  |  |  | 42.64 | [14] |
+| Experiment | 2.603 | 6.706 | 33.8 | 8.9 |  |  |  |  | [54] |
+| Experiment |  |  |  |  |  |  | 7.37 |  | [57] |
+| Experiment |  |  |  |  | 36.5 |  |  |  | [60] |
+| Reference datum | 2.462 | 6.707 | 35.6 | 8.9 | 37.6 | 530 | 7.37 | 48 | [29, 53–57] |

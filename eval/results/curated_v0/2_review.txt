@@ -1,0 +1,160 @@
+- Processing foreign1
+Model parts = {'mexicali', '510664'}
+GT parts = [{'mexicali', '510664'}]
+Model parts = {'mexicali', '510664'}
+GT parts = [{'mexicali', '510664'}]
+Model parts = {'tijuana', '461257'}
+GT parts = [{'mexicali', '510664'}]
+    - select: ['✓', '✓', '❌']
+Model parts = {'encuesta demográfica de baja california 1986', 'censo general de población y vivienda de 1980', 'encuesta continua de migración de baja california'}
+GT parts = [{'censo general de población de 1980 de baja california', 'encuesta continua de migración de baja california'}]
+Model parts = {'censo general de población y vivienda', 'encuesta continua de migración de baja california'}
+GT parts = [{'censo general de población de 1980 de baja california', 'encuesta continua de migración de baja california'}]
+Model parts = {'encuesta demográfica de baja california', 'censo general de población y vivienda', 'encuesta continua de migración de baja california'}
+GT parts = [{'censo general de población de 1980 de baja california', 'encuesta continua de migración de baja california'}]
+    - list: ['❌', '❌', '❌']
+
+- Processing math1
+Model parts = {'non-local mean', '99.26%'}
+GT parts = [{'non-local mean', '99.26%'}]
+Model parts = {'non-local mean', '99.26%'}
+GT parts = [{'non-local mean', '99.26%'}]
+Model parts = {'non-local mean', '99.26%'}
+GT parts = [{'non-local mean', '99.26%'}]
+    - select: ['✓', '✓', '✓']
+Model parts = {'imagenet', 'cifar-10'}
+GT parts = [{'imagenet', 'cifar-10'}]
+Model parts = {'imagenet', 'cifar-10'}
+GT parts = [{'imagenet', 'cifar-10'}]
+Model parts = {'imagenet', 'cifar-10'}
+GT parts = [{'imagenet', 'cifar-10'}]
+    - list: ['✓', '✓', '✓']
+
+- Processing med1
+Model parts = {'pet-lpd'}
+GT parts = [{'pet-lpd'}]
+Model parts = {'pet-lpd'}
+GT parts = [{'pet-lpd'}]
+Model parts = {'pet-lpd'}
+GT parts = [{'pet-lpd'}]
+    - select: ['✓', '✓', '✓']
+Model parts = {'pet-dds'}
+GT parts = [{'pet-dds'}]
+Model parts = {'pet-dds'}
+GT parts = [{'pet-dds'}]
+Model parts = {'pet-dds'}
+GT parts = [{'pet-dds'}]
+    - list: ['✓', '✓', '✓']
+
+- Processing med2
+Model parts = {'atp synthase'}
+GT parts = [{'atp synthase'}, {'bdq'}]
+Model parts = {'atp synthase'}
+GT parts = [{'atp synthase'}, {'bdq'}]
+Model parts = {'atp synthase'}
+GT parts = [{'atp synthase'}, {'bdq'}]
+    - select: ['✓', '✓', '✓']
+Model parts = {'40', '29', '2'}
+GT parts = [{'39', '29', '2', '40', '31', '4'}]
+Model parts = {'39', '29', '2', '40', '31', '4'}
+GT parts = [{'39', '29', '2', '40', '31', '4'}]
+Model parts = {'39', '29', '2', '40', '31', '4'}
+GT parts = [{'39', '29', '2', '40', '31', '4'}]
+    - list: ['❌', '✓', '✓']
+
+- Processing math2
+Model parts = {'5.7'}
+GT parts = [{'5.7'}]
+Model parts = {'3.19'}
+GT parts = [{'5.7'}]
+Model parts = {'3.19'}
+GT parts = [{'5.7'}]
+    - select: ['✓', '❌', '❌']
+Model parts = {'55', '56', '54', '59', '58'}
+GT parts = [{'59', '54', '58'}]
+Model parts = {'55', '54', '56', '58'}
+GT parts = [{'59', '54', '58'}]
+Model parts = {'54', '58'}
+GT parts = [{'59', '54', '58'}]
+    - list: ['❌', '❌', '❌']
+
+- Processing phys2
+Model parts = {'2'}
+GT parts = [{'2'}]
+Model parts = {'2'}
+GT parts = [{'2'}]
+Model parts = {'2'}
+GT parts = [{'2'}]
+    - select: ['✓', '✓', '✓']
+Model parts = {'5.5', '5.6'}
+GT parts = [{'5.5', '5.6'}]
+Model parts = {'5.5', '5.6'}
+GT parts = [{'5.5', '5.6'}]
+Model parts = {'5.5', '5.6'}
+GT parts = [{'5.5', '5.6'}]
+    - list: ['✓', '✓', '✓']
+
+- Processing phys1
+Model parts = {'with a value of 34.61 gpa.', 'the ts procedure yields the highest value for the curvature c_{33}'}
+GT parts = [{'vv10'}]
+Model parts = {'the ts procedure yields the highest value for the curvature c_{33}.'}
+GT parts = [{'vv10'}]
+Model parts = {'ts'}
+GT parts = [{'vv10'}]
+    - select: ['❌', '❌', '❌']
+Model parts = {'pbe + ts + scs.', 'pbe', 'pbe + d3', 'pbe + ts', 'pbe + d3-bj', 'pbe + d2'}
+GT parts = [{'pbe + ts + scs', 'pbe + d3', 'pbe', 'pbe + ts', 'pbe + d3-bj', 'pbe + d2'}]
+Model parts = {'pbe + ts + scs', 'pbe0.', 'pbe', 'pbe + d3', 'pbe + ts', 'pbe + d3-bj', 'qmc', 'rpa', 'pbe + d2', 'lda'}
+GT parts = [{'pbe + ts + scs', 'pbe + d3', 'pbe', 'pbe + ts', 'pbe + d3-bj', 'pbe + d2'}]
+Model parts = {'pbe + ts + scs', 'pbe', 'pbe + d3', 'pbe + ts', 'pbe + d3-bj', 'qmc', 'rpa', 'pbe + d2', 'lda'}
+GT parts = [{'pbe + ts + scs', 'pbe + d3', 'pbe', 'pbe + ts', 'pbe + d3-bj', 'pbe + d2'}]
+    - list: ['❌', '❌', '❌']
+
+- Processing foreign2
+Model parts = {'40'}
+GT parts = [{'40'}]
+Model parts = {'40'}
+GT parts = [{'40'}]
+Model parts = {'40'}
+GT parts = [{'40'}]
+    - select: ['✓', '✓', '✓']
+Model parts = {'74', '81.', '43'}
+GT parts = [{'83', '81', '74', '44', '43'}]
+Model parts = {'81', '74', '43'}
+GT parts = [{'83', '81', '74', '44', '43'}]
+Model parts = {'81', '77', '43'}
+GT parts = [{'83', '81', '74', '44', '43'}]
+    - list: ['❌', '❌', '❌']
+
+- Processing misc1
+Model parts = {'television news', 'social networks'}
+GT parts = [{'social networks', 'television news'}, {'social media posts', 'television news'}]
+Model parts = {'social media posts', 'television news.'}
+GT parts = [{'social networks', 'television news'}, {'social media posts', 'television news'}]
+Model parts = {'social media posts', 'television news'}
+GT parts = [{'social networks', 'television news'}, {'social media posts', 'television news'}]
+    - select: ['✓', '✓', '✓']
+Model parts = {'giraldo', '2019', 'simmel', '1910'}
+GT parts = [{'žižek', 'giraldo & ruiz', 'simmel', '2020', '2019', '1910'}, {'žižek', 'simmel', '2020', '2019', 'giraldo', '1910'}]
+Model parts = {'žižek', 'simmel', '2020', '2019', 'giraldo', '1910'}
+GT parts = [{'žižek', 'giraldo & ruiz', 'simmel', '2020', '2019', '1910'}, {'žižek', 'simmel', '2020', '2019', 'giraldo', '1910'}]
+Model parts = {'žižek', 'simmel', '2020', '2019', 'giraldo', '1910'}
+GT parts = [{'žižek', 'giraldo & ruiz', 'simmel', '2020', '2019', '1910'}, {'žižek', 'simmel', '2020', '2019', 'giraldo', '1910'}]
+    - list: ['❌', '✓', '✓']
+
+- Processing misc2
+Model parts = {'ridge'}
+GT parts = [{'ridge'}]
+Model parts = {'ridge'}
+GT parts = [{'ridge'}]
+Model parts = {'ridge'}
+GT parts = [{'ridge'}]
+    - select: ['✓', '✓', '✓']
+Model parts = {'sector', 'cluster'}
+GT parts = [{'sector', 'cluster'}]
+Model parts = {'sector', 'cluster'}
+GT parts = [{'sector', 'cluster'}]
+Model parts = {'sector', 'cluster'}
+GT parts = [{'sector', 'cluster'}]
+    - list: ['✓', '✓', '✓']
+

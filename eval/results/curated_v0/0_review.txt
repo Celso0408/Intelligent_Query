@@ -1,0 +1,288 @@
+/home/daniel/sciai/pdfquery/.venv/bin/python /home/daniel/sciai/pdfquery/eval/benchmarks/curated.py
+/home/daniel/sciai/pdfquery/.venv/lib/python3.12/site-packages/torch/cuda/__init__.py:129: UserWarning: CUDA initialization: CUDA unknown error - this may be due to an incorrectly set up environment, e.g. changing env variable CUDA_VISIBLE_DEVICES after program start. Setting the available devices to be zero. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._cuda_getDeviceCount() > 0
+- Processing foreign1
+Model parts = {'tijuana', '461257'}
+GT parts = [{'mexicali', '510664'}]
+Model parts = {'tijuana', '461257'}
+GT parts = [{'mexicali', '510664'}]
+Model parts = {'tijuana', '461257'}
+GT parts = [{'mexicali', '510664'}]
+    - select: ['❌', '❌', '❌']
+Model parts = {'encuesta continua de migración de baja california', 'censo general de población y vivienda'}
+GT parts = [{'encuesta continua de migración de baja california', 'censo general de población y vivienda'}]
+Model parts = {'encuesta continua de migración de baja california', 'censo general de población y vivienda'}
+GT parts = [{'encuesta continua de migración de baja california', 'censo general de población y vivienda'}]
+Model parts = {'encuesta continua de migración de baja california', 'censo general de población y vivienda'}
+GT parts = [{'encuesta continua de migración de baja california', 'censo general de población y vivienda'}]
+    - list: ['✓', '✓', '✓']
+
+- Processing math1
+Model parts = {'non-local mean', '99.26%'}
+GT parts = [{'non-local mean', '99.26%'}]
+Model parts = {'non-local mean', '99.26%'}
+GT parts = [{'non-local mean', '99.26%'}]
+Model parts = {'non-local mean', '99.26%'}
+GT parts = [{'non-local mean', '99.26%'}]
+    - select: ['✓', '✓', '✓']
+Model parts = {'imagenet', 'cifar-10'}
+GT parts = [{'imagenet', 'cifar-10'}]
+Model parts = {'imagenet', 'cifar-10'}
+GT parts = [{'imagenet', 'cifar-10'}]
+Model parts = {'imagenet', 'cifar-10'}
+GT parts = [{'imagenet', 'cifar-10'}]
+    - list: ['✓', '✓', '✓']
+
+- Processing med1
+Model parts = {'pet-lpd'}
+GT parts = [{'pet-lpd'}]
+Model parts = {'pet-lpd'}
+GT parts = [{'pet-lpd'}]
+Model parts = {'pet-lpd'}
+GT parts = [{'pet-lpd'}]
+    - select: ['✓', '✓', '✓']
+Model parts = {'pet-dds'}
+GT parts = [{'pet-dds'}]
+Model parts = {'pet-dps', 'pet-naive'}
+GT parts = [{'pet-dds'}]
+Model parts = {'pet-dds'}
+GT parts = [{'pet-dds'}]
+    - list: ['✓', '❌', '✓']
+
+- Processing med2
+Model parts = {'atp synthase'}
+GT parts = [{'atp synthase'}, {'bdq'}]
+Model parts = {'atp synthase'}
+GT parts = [{'atp synthase'}, {'bdq'}]
+Model parts = {'atp synthase'}
+GT parts = [{'atp synthase'}, {'bdq'}]
+    - select: ['✓', '✓', '✓']
+Model parts = {'4', '39', '2', '40'}
+GT parts = [{'40', '31', '39', '4', '2', '29'}]
+Model parts = {'39', '31', '40', '4', '2', '29'}
+GT parts = [{'40', '31', '39', '4', '2', '29'}]
+Model parts = {'252', '39', '31', '40', '4', '2', '29'}
+GT parts = [{'40', '31', '39', '4', '2', '29'}]
+    - list: ['❌', '✓', '❌']
+
+- Processing math2
+Model parts = {'5.7'}
+GT parts = [{'5.7'}]
+Model parts = {'5.7'}
+GT parts = [{'5.7'}]
+Model parts = {'5.7'}
+GT parts = [{'5.7'}]
+    - select: ['✓', '✓', '✓']
+Model parts = {'54', '58', '55', '57', '59', '56'}
+GT parts = [{'54', '59', '58'}]
+Model parts = {'54', '58', '55', '57', '56'}
+GT parts = [{'54', '59', '58'}]
+Model parts = {'54', '58', '55', '57', '35', '56'}
+GT parts = [{'54', '59', '58'}]
+    - list: ['❌', '❌', '❌']
+
+- Processing phys2
+Model parts = {'2'}
+GT parts = [{'2'}]
+Model parts = {'2'}
+GT parts = [{'2'}]
+Model parts = {'2'}
+GT parts = [{'2'}]
+    - select: ['✓', '✓', '✓']
+Model parts = {'5.6', '5.5'}
+GT parts = [{'5.6', '5.5'}]
+Model parts = {'5.6', '5.5'}
+GT parts = [{'5.6', '5.5'}]
+Model parts = {'5.6', '5.5'}
+GT parts = [{'5.6', '5.5'}]
+    - list: ['✓', '✓', '✓']
+
+- Processing phys1
+Model parts = {'ts + scs and ts yield the best estimates for c_{33}', 'but ts yields the highest value for the curvature c_{33}.'}
+GT parts = [{'vv10'}]
+Model parts = {'the ts procedure yields the highest value for the curvature c_{33}', 'with a value of 34.61 gpa.', 'according to the paper'}
+GT parts = [{'vv10'}]
+Model parts = {'with a value of 46.1 gpa.', 'the vv10 procedure yields the highest value for the curvature c_{33}'}
+GT parts = [{'vv10'}]
+    - select: ['❌', '❌', '❌']
+Model parts = {'pbe + d2', 'pbe', 'rpa', 'pbe + d3-bj', 'pbe + ts', 'qmc', 'lda', 'pbe + d3', 'pbe0.', 'pbe + ts + scs'}
+GT parts = [{'pbe + d2', 'pbe', 'pbe + d3-bj', 'pbe + ts', 'pbe + d3', 'pbe + ts + scs'}, {'pbe + d2', 'pbe', 'pbe + d3-bj', 'pbe + ts', 'pbe + d3', 'pbe + ts + scs.'}]
+Model parts = {'pbe + d3-bj', 'optpbe (vdw)', 'vdw-df', 'lda', 'pbe + d3', 'cx13 (vdw)', 'optb86b(vdw)', 'pbe + ts + scs', 'df2', 'revb86b', 'pbe + ts', 'vv10', 'qmc', 'df1', 'optb88 (vdw)', 'rpa', 'c09 (vdw)', 'pbe + d2', 'pbe', 'df1(pbe)', 'pbe0.'}
+GT parts = [{'pbe + d2', 'pbe', 'pbe + d3-bj', 'pbe + ts', 'pbe + d3', 'pbe + ts + scs'}, {'pbe + d2', 'pbe', 'pbe + d3-bj', 'pbe + ts', 'pbe + d3', 'pbe + ts + scs.'}]
+Model parts = {'pbe + d3-bj', 'optpbe (vdw)', 'vdw-df', 'lda', 'pbe + d3', 'cx13 (vdw)', 'optb86b(vdw)', 'pbe + ts + scs', 'df2', 'revb86b', 'pbe + ts', 'vv10', 'qmc', 'df1', 'optb88 (vdw)', 'rpa', 'c09 (vdw)', 'pbe + d2', 'pbe', 'df1(pbe)', 'pbe0.'}
+GT parts = [{'pbe + d2', 'pbe', 'pbe + d3-bj', 'pbe + ts', 'pbe + d3', 'pbe + ts + scs'}, {'pbe + d2', 'pbe', 'pbe + d3-bj', 'pbe + ts', 'pbe + d3', 'pbe + ts + scs.'}]
+    - list: ['❌', '❌', '❌']
+
+- Processing foreign2
+Model parts = {'40'}
+GT parts = [{'40'}]
+Model parts = {'40'}
+GT parts = [{'40'}]
+Model parts = {'40'}
+GT parts = [{'40'}]
+    - select: ['✓', '✓', '✓']
+Model parts = {'43', '74', '81.'}
+GT parts = [{'43', '74', '44', '83', '81'}]
+Model parts = {'43', '81', '74'}
+GT parts = [{'43', '74', '44', '83', '81'}]
+Model parts = {'43', '74', '81.'}
+GT parts = [{'43', '74', '44', '83', '81'}]
+    - list: ['❌', '❌', '❌']
+
+- Processing misc1
+Model parts = {'social networks', 'television news'}
+GT parts = [{'social networks', 'television news'}, {'social media posts', 'television news'}, {'social media posts', 'television news.'}]
+Model parts = {'social networks', 'television news'}
+GT parts = [{'social networks', 'television news'}, {'social media posts', 'television news'}, {'social media posts', 'television news.'}]
+Model parts = {'social networks', 'television news'}
+GT parts = [{'social networks', 'television news'}, {'social media posts', 'television news'}, {'social media posts', 'television news.'}]
+    - select: ['✓', '✓', '✓']
+Model parts = {'2019', '1910', 'simmel', 'žižek', 'giraldo', '2020'}
+GT parts = [{'giraldo & ruiz', '2019', '1910', 'simmel', 'žižek', '2020'}, {'2019', '1910', 'simmel', 'žižek', 'giraldo', '2020'}]
+Model parts = {'2019', '1910', 'simmel', 'žižek', 'giraldo', '2020'}
+GT parts = [{'giraldo & ruiz', '2019', '1910', 'simmel', 'žižek', '2020'}, {'2019', '1910', 'simmel', 'žižek', 'giraldo', '2020'}]
+Model parts = {'2019', '1910', 'simmel', 'žižek', 'giraldo', '2020'}
+GT parts = [{'giraldo & ruiz', '2019', '1910', 'simmel', 'žižek', '2020'}, {'2019', '1910', 'simmel', 'žižek', 'giraldo', '2020'}]
+    - list: ['✓', '✓', '✓']
+
+- Processing misc2
+Model parts = {'ridge'}
+GT parts = [{'ridge'}]
+Model parts = {'ridge'}
+GT parts = [{'ridge'}]
+Model parts = {'ridge'}
+GT parts = [{'ridge'}]
+    - select: ['✓', '✓', '✓']
+Model parts = {'cluster', 'sector'}
+GT parts = [{'cluster', 'sector'}]
+Model parts = {'cluster', 'sector'}
+GT parts = [{'cluster', 'sector'}]
+Model parts = {'cluster', 'sector'}
+GT parts = [{'cluster', 'sector'}]
+    - list: ['✓', '✓', '✓']
+
++-----------------------------------------+
+-> Conversation history
+Q: Which city in Baja California had the highest total population in 1980? Answer like this 'city, total poulation'. The result will be processed automatically
+A11: Tijuana, 461257
+Q: Which city in Baja California had the highest total population in 1980? Answer like this 'city, total poulation'. The result will be processed automatically
+A11: Tijuana, 461257
+Q: Which city in Baja California had the highest total population in 1980? Answer like this 'city, total poulation'. The result will be processed automatically
+A11: Tijuana, 461257
+Q: Which surveys or other resources does this paper list as primary sources for the years 1988 and 1980 respectively? Answer like this 'survery1, resource2'.The result will be processed automatically
+A11: Encuesta Continua de Migración de Baja California, Censo General de Población y Vivienda
+Q: Which surveys or other resources does this paper list as primary sources for the years 1988 and 1980 respectively? Answer like this 'survery1, resource2'.The result will be processed automatically
+A11: Encuesta Continua de Migración de Baja California, Censo General de Población y Vivienda
+Q: Which surveys or other resources does this paper list as primary sources for the years 1988 and 1980 respectively? Answer like this 'survery1, resource2'.The result will be processed automatically
+A11: Encuesta Continua de Migración de Baja California, Censo General de Población y Vivienda
+Q: Please give the best performing adverserial detection approach in terms of true negative rate on the CIFAR-10 dataset excluding feature filter with feature reservation ratio of 0.95. List only name and true negative rate like this: 'approach, 59.2%'.The result will be processed automatically
+A11: Non-local Mean, 99.26%
+Q: Please give the best performing adverserial detection approach in terms of true negative rate on the CIFAR-10 dataset excluding feature filter with feature reservation ratio of 0.95. List only name and true negative rate like this: 'approach, 59.2%'.The result will be processed automatically
+A11: Non-local Mean, 99.26%
+Q: Please give the best performing adverserial detection approach in terms of true negative rate on the CIFAR-10 dataset excluding feature filter with feature reservation ratio of 0.95. List only name and true negative rate like this: 'approach, 59.2%'.The result will be processed automatically
+A11: Non-local Mean, 99.26%
+Q: Name each image dataset used the paper. Write only a list like so: 'dataset1, dataset2, dataset3'The result will be processed automatically
+A11: CIFAR-10, ImageNet
+Q: Name each image dataset used the paper. Write only a list like so: 'dataset1, dataset2, dataset3'The result will be processed automatically
+A11: CIFAR-10, ImageNet
+Q: Name each image dataset used the paper. Write only a list like so: 'dataset1, dataset2, dataset3'The result will be processed automatically
+A11: CIFAR-10, ImageNet
+Q: Which of the discussed methods yields the highest PSNR score for the highest noise level? Answer in this format 'method' e.g. 'BitFilter'.The result will be processed automatically
+A11: PET-LPD
+Q: Which of the discussed methods yields the highest PSNR score for the highest noise level? Answer in this format 'method' e.g. 'BitFilter'.The result will be processed automatically
+A11: PET-LPD
+Q: Which of the discussed methods yields the highest PSNR score for the highest noise level? Answer in this format 'method' e.g. 'BitFilter'.The result will be processed automatically
+A11: PET-LPD
+Q: For which methods was the computing time cited as less than 5 seconds on average? Answer in this format: 'method1, method2'The result will be processed automatically
+A11: PET-DDS
+Q: For which methods was the computing time cited as less than 5 seconds on average? Answer in this format: 'method1, method2'The result will be processed automatically
+A11: PET-Naive, PET-DPS
+Q: For which methods was the computing time cited as less than 5 seconds on average? Answer in this format: 'method1, method2'The result will be processed automatically
+A11: PET-DDS
+Q: Which of the identified hot targets for TB was presented as possibly causing heart rhythm issues? Answer in this format 'hot target'.The result will be processed automatically
+A11: ATP Synthase
+Q: Which of the identified hot targets for TB was presented as possibly causing heart rhythm issues? Answer in this format 'hot target'.The result will be processed automatically
+A11: ATP Synthase
+Q: Which of the identified hot targets for TB was presented as possibly causing heart rhythm issues? Answer in this format 'hot target'.The result will be processed automatically
+A11: ATP Synthase
+Q: List all references which come from the WHO. Answer in this format: '13, 16, 22'The result will be processed automatically
+A11: 2, 4, 39, 40
+Q: List all references which come from the WHO. Answer in this format: '13, 16, 22'The result will be processed automatically
+A11: 2, 4, 29, 31, 39, 40
+Q: List all references which come from the WHO. Answer in this format: '13, 16, 22'The result will be processed automatically
+A11: 2, 4, 29, 31, 39, 40, 252
+Q: Which equation defines invariant pseudo-scalar at order 2? Give only the equation number like so '5.2'.The result will be processed automatically
+A11: 5.7
+Q: Which equation defines invariant pseudo-scalar at order 2? Give only the equation number like so '5.2'.The result will be processed automatically
+A11: 5.7
+Q: Which equation defines invariant pseudo-scalar at order 2? Give only the equation number like so '5.2'.The result will be processed automatically
+A11: 5.7
+Q: List all references that were published in the year 2002. Please list them in this format: '52,28,21'.The result will be processed automatically
+A11: 54, 55, 56, 57, 58, 59
+Q: List all references that were published in the year 2002. Please list them in this format: '52,28,21'.The result will be processed automatically
+A11: 54, 55, 56, 57, 58
+Q: List all references that were published in the year 2002. Please list them in this format: '52,28,21'.The result will be processed automatically
+A11: 54, 55, 56, 57, 58, 35
+Q: Going by the definitions of the paper, which Pauli matrix contains the imaginaryt unit i? Give only the numebr like so:'3'The result will be processed automatically
+A11: 2
+Q: Going by the definitions of the paper, which Pauli matrix contains the imaginaryt unit i? Give only the numebr like so:'3'The result will be processed automatically
+A11: 2
+Q: Going by the definitions of the paper, which Pauli matrix contains the imaginaryt unit i? Give only the numebr like so:'3'The result will be processed automatically
+A11: 2
+Q: List all enumerated statements in V which are theorems i.e. not lemmas, corrolaries or remarks. Answer in this format '5.5, 5.8, 5.12'.The result will be processed automatically
+A11: 5.5, 5.6
+Q: List all enumerated statements in V which are theorems i.e. not lemmas, corrolaries or remarks. Answer in this format '5.5, 5.8, 5.12'.The result will be processed automatically
+A11: 5.5, 5.6
+Q: List all enumerated statements in V which are theorems i.e. not lemmas, corrolaries or remarks. Answer in this format '5.5, 5.8, 5.12'.The result will be processed automatically
+A11: 5.5, 5.6
+Q: Which of the listed procedure yields the highest value for the curvature C_{33}?The result will be processed automatically
+A11: TS + SCS and TS yield the best estimates for C_{33}, but TS yields the highest value for the curvature C_{33}.
+Q: Which of the listed procedure yields the highest value for the curvature C_{33}?The result will be processed automatically
+A11: According to the paper, the TS procedure yields the highest value for the curvature C_{33}, with a value of 34.61 GPa.
+Q: Which of the listed procedure yields the highest value for the curvature C_{33}?The result will be processed automatically
+A11: The VV10 procedure yields the highest value for the curvature C_{33}, with a value of 46.1 GPa.
+Q: Which procedures were used in this paper to compute bulk properties of graphite? Answer like this 'procedure1, procedure2, procedure3'.The result will be processed automatically
+A11: PBE, PBE + D2, PBE + D3, PBE + D3-BJ, PBE + TS, PBE + TS + SCS, RPA, QMC, LDA, PBE0.
+Q: Which procedures were used in this paper to compute bulk properties of graphite? Answer like this 'procedure1, procedure2, procedure3'.The result will be processed automatically
+A11: PBE, PBE + D2, PBE + D3, PBE + D3-BJ, PBE + TS, PBE + TS + SCS, RPA, QMC, LDA, revB86B, C09 (vdw), cx13 (vdw), optPBE (vdW), optB88 (vdW), optB86B(vdW), vdW-DF, DF1, DF2, DF1(PBE), VV10, PBE0.
+Q: Which procedures were used in this paper to compute bulk properties of graphite? Answer like this 'procedure1, procedure2, procedure3'.The result will be processed automatically
+A11: PBE, PBE + D2, PBE + D3, PBE + D3-BJ, PBE + TS, PBE + TS + SCS, RPA, QMC, LDA, revB86B, C09 (vdw), cx13 (vdw), optPBE (vdW), optB88 (vdW), optB86B(vdW), vdW-DF, DF1, DF2, DF1(PBE), VV10, PBE0.
+Q: Which reference was said to be effective at screen out different categories of imaging devices? Answer with only the referrence number like so '24'.The result will be processed automatically
+A11: 40
+Q: Which reference was said to be effective at screen out different categories of imaging devices? Answer with only the referrence number like so '24'.The result will be processed automatically
+A11: 40
+Q: Which reference was said to be effective at screen out different categories of imaging devices? Answer with only the referrence number like so '24'.The result will be processed automatically
+A11: 40
+Q: Which of the approaches displayed in the first tale use a pixel level approach. Answer in this format through the reference numbers of the approaches: '13,42,69'.The result will be processed automatically
+A11: 43, 74, 81.
+Q: Which of the approaches displayed in the first tale use a pixel level approach. Answer in this format through the reference numbers of the approaches: '13,42,69'.The result will be processed automatically
+A11: 43, 74, 81
+Q: Which of the approaches displayed in the first tale use a pixel level approach. Answer in this format through the reference numbers of the approaches: '13,42,69'.The result will be processed automatically
+A11: 43, 74, 81.
+Q: Which of the aspects of virtual and communicative media were cited as a source of fear and exaggeration in the population? Answer in this format 'Aspect1, aspect2'. Note that this is an example and the number of aspects is not meant to be accurate.The result will be processed automatically
+A11: Social networks, television news
+Q: Which of the aspects of virtual and communicative media were cited as a source of fear and exaggeration in the population? Answer in this format 'Aspect1, aspect2'. Note that this is an example and the number of aspects is not meant to be accurate.The result will be processed automatically
+A11: Social networks, television news
+Q: Which of the aspects of virtual and communicative media were cited as a source of fear and exaggeration in the population? Answer in this format 'Aspect1, aspect2'. Note that this is an example and the number of aspects is not meant to be accurate.The result will be processed automatically
+A11: Social networks, television news
+Q: What citations were invoked in the first paragraph in the Results and Discussion section? Answer in this format: 'name1, year, name2, year, name3, yearThe result will be processed automatically
+A11: Giraldo, 2019, Simmel, 1910, Žižek, 2020
+Q: What citations were invoked in the first paragraph in the Results and Discussion section? Answer in this format: 'name1, year, name2, year, name3, yearThe result will be processed automatically
+A11: Giraldo, 2019, Simmel, 1910, Žižek, 2020
+Q: What citations were invoked in the first paragraph in the Results and Discussion section? Answer in this format: 'name1, year, name2, year, name3, yearThe result will be processed automatically
+A11: Giraldo, 2019, Simmel, 1910, Žižek, 2020
+Q: Which of the explored index tracking methods displayed the lowest absolute percentage error? Anwer in this format 'method' e.g. 'Precise square tracking'.The result will be processed automatically
+A11: Ridge
+Q: Which of the explored index tracking methods displayed the lowest absolute percentage error? Anwer in this format 'method' e.g. 'Precise square tracking'.The result will be processed automatically
+A11: Ridge
+Q: Which of the explored index tracking methods displayed the lowest absolute percentage error? Anwer in this format 'method' e.g. 'Precise square tracking'.The result will be processed automatically
+A11: Ridge
+Q: Which of the explored index tracking methods have a positive absolute percentage errors of greater than 10? Anwer in this format 'method1, method2'.The result will be processed automatically
+A11: Sector, Cluster
+Q: Which of the explored index tracking methods have a positive absolute percentage errors of greater than 10? Anwer in this format 'method1, method2'.The result will be processed automatically
+A11: Sector, Cluster
+Q: Which of the explored index tracking methods have a positive absolute percentage errors of greater than 10? Anwer in this format 'method1, method2'.The result will be processed automatically
+A11: Sector, Cluster
+
+
+Process finished with exit code 0

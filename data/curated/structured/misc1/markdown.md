@@ -1,0 +1,282 @@
+# **Resilience in the Population of Cusco in Times of COVID-19**
+
+Ronny Andree Chacon Guevara1 , William Edward Pino Ticona2 , Emilio Flores Mamani3 , Flavio Salas Obregon4 , Nicanor Rolando Martinez Quiroz5 , Erika Paola Serrano Rojas6
+
+#### **Abstract**
+
+*The COVID-19 pandemic has profoundly impacted the world, leading to millions of infections, deaths, and crises. In Cusco, Peru, this complexity has altered social structures and interpersonal relationships. This study aimed to explore human adaptation strategies developed during the pandemic in Cusco. A non-probabilistic sample of 40 adults from the province's eight districts was interviewed using phenomenological and ethnomethodological methods. Data were collected through in-depth interviews and analyzed using Atlas Ti software. Results indicate that the pandemic has changed personal and social characteristics, reflected in altered moods, worries, and priorities. Participants reported increased awareness of their vulnerability, heightened solidarity with others, and shifting family roles that necessitated new forms of coexistence, often with distorted responsibilities. Interpersonal communication became limited, relying heavily on technology, and there was a rise in individual responses, including the use of natural and chemical remedies. Overall, the study concludes that Cusco's inhabitants have developed various adaptation strategies to confront the pandemic, significantly impacting their personal lives and social contexts.*
+
+**Keywords:** *Protection Actions, Resilience, Social Construct, COVID-19, Human Qualities.*
+
+#### **Introduction**
+
+The current scenario shows that the world is experiencing a series of disruptions and changes in the human context in relation to social and individual spaces, all due to the transmission of the COVID-19 virus. Since the first case of the new coronavirus strain in Wuhan, China, society has suffered tragedies, reflected in massive infections and the loss of many human lives. Each country has been developing mechanisms to stop the spread of this disease by implementing guidelines and procedures that citizens must follow to survive. Peru is among the countries with the highest number of infections and deaths worldwide (BBC News Mundo, 2019). Although it implemented protective measures, it has not managed to reduce the level of contagion, causing a series of social, cultural, and economic disruptions, where individuals have been employing different maneuvers to recover, adopting behaviors and attitudes that are uncommon in their human-social development. This has motivated a new style of cohabitation and coexistence, incorporating and assimilating new sociocultural components that change the customary ways of interacting.
+
+In this context, the community has been establishing various behaviors in a coercive manner within individuals, known as "social facts," which reflect a set of action mechanisms external to the individual, consisting of ways of interacting, thinking, and feeling; these also have a coercive influence over them (Durkheim, 1986). A significant aspect of social facts is emphasized, mentioning that a group or human collective immediately considers a symbol due to its particularity and differential meaning, which becomes functional when applied across different social contexts (Mauss, 2009). In this phase, the purpose of individuals should be emphasized, where they converge not only in cooperative behaviors but also in
+
+<sup>1</sup> Universidad Nacional de San Antonio Abad del Cusco, Perú, Email: ronny.chacon@unsaac.edu.pe, Orcid: https://orcid.org/0000-0003-2484- 8404.
+
+<sup>2</sup> Universidad Nacional de San Antonio Abad del Cusco, Perú, Email: william.pino@unsaac.edu.pe, Orcid: https://orcid.org/0000-0001-5111-2553 3 Universidad Nacional del Altiplano,Puno, Email: emilioflores@unap.edu.pe, Orcid: https://orcid.org/0000-0002-0317-6867.
+
+<sup>4</sup> Universidad Nacional de San Antonio Abad del Cusco, Perú, Email: flavio.salas@unsaac.edu.pe, Orcid: https://orcid.org/0000-0003-3105-6683.
+
+<sup>5</sup> Universidad Nacional de San Antonio Abad del Cusco, Perú, Email: nicanor.martinez@unsaac.edu.pe, Orcid: https://orcid.org/0000-0003-0536- 0999
+
+<sup>6</sup> Universidad Nacional de San Antonio Abad del Cusco, Perú, Email: erika.serrano@unsaac.edu.pe, Orcid: https://orcid.org/0000-0002-07 27- 8633
+
+objectives, wills, and desires, making evident the manifestation, intentionality, and collective contagion (Searle, 1997).
+
+A social fact is observed in the collective space as its most important feature, where there is not only a group representation of people but also a process of meanings that shapes individual behavior (Benedicto, 1995), also known as "social modes." Therefore, actions or behaviors lacking a collective purpose or intentionality lack the driving force to influence certain responses, and in this context, there is an evident intention to generate changes in their environment (Noguera, 2002). Under the subordination of social changes and without neglecting the expression of collective mandate, religion also aims to make its presence felt in human collectivity, in such a way that it seeks to influence or bring about change within social construction frameworks (Espinosa, 2010).
+
+From a more individual-focused perspective, undoubtedly, motivations and ideas are the driving force for change that projects a significance capable of creating variations in social spaces and structures; the individual and their personal representation of reality can contribute to the creation of social facts that acquire a coercive nature by themselves. People have the capacity for independent action and to direct their lives, as long as their environment allows it (Giddens, 2014). People's views of the world are undoubtedly driven by change and a set of social actions that influence their peers, as if they were a mechanical response to a stimulus (Parsons, 1968). Taking into account the aforementioned, the subjectivity of an action will be determined based on "response, feasibility, and experience" (Benítez, 1983), and is not merely an automated response; rather, when reacting in an "automatic" manner, necessary processes such as understanding the real context and previously internalized knowledge are required. Therefore, social action establishes how individuals, through their particular actions, internalize responses within their collective environment, thus starting from an individual action that triggers a series of collective responses (Allones, 2005).
+
+Under these premises, the current pandemic reality shows that each person carries out various actions, functions, and behaviors with the purpose of confronting the contextual problems facing society, where "adaptation," conceptualized as the struggle of an organism against others to survive, is a prominent notion today (Barahona, 1983). This has led to the development of new habits and behaviors needed to address the changes that society adopts (Light, Keller & Craig, 1991), and which are transmitted through the social construction process, ensuring that these alterations are socialized, avoiding contradiction or opposition for the proper social and individual assimilation process. In this scenario, social systems manifest within their own contextual logic, adapting based on the parameters and ways of life in synchronous functionality and constant adjustments (Osorio, 2010).
+
+Thus, adaptive behavior is crucial in developing optimal and healthy human capabilities and mental faculties (Totocagüena & Riaño, 2016), with active behavior to bring about change and gain feedback from one's context, enabling understanding and adaptation with others (Rambaut, 2001). In a purely social environment, individuals, in addition to adaptation, naturally have a gregarious or supportive nature that constantly adjusts to their relational possibilities with others (Vayda & McCay, 1975). Similarly, social criteria must intend to change roles, behaviors, and attitudes in individuals, applicable in various contexts based on constructive structures, viewing all aspects as part of a dynamic and changing process (Hales, Stuart & Gabbard, 2012). In other words, social adaptation is demonstrated through a mechanism in which individuals or groups modify and adapt behaviors (Albillos, n.d.), facing challenges when resisting certain normative processes that counteract or alter the constructed belonging space.
+
+The need to seek a system that opts to develop a more generalized vision will enable adaptation in accordance with the demands of an external situation (Almaraz, 2013), as transformation is not passive but presents continuous and dynamic changes that align with humanity's life process and ecosystem, which will only cease with annihilation (Arnal, 1998). Likewise, every resilient person will proactively adapt to challenging situations, particularly in a threatening environment; thus, their emotional intelligence will emerge to resolve any problem in the most opportune way (Madariaga, 2014). In various circumstances, they will face threats against their development, reflected in change, deformation, or evolution, creating a learning environment (Cyrulnik, 2010).
+
+Every human being, as well as a resilient social collective, has the capacity to adapt to change, overcome obstacles, and progress toward development, allowing them to break down barriers posed by any phenomenon (Vanistendael & Saavedra, 1967). People are vulnerable to the risks they are exposed to, as these could harm them (Uriarte, 2005), highlighting that humans are susceptible to suffering damage but possess the ability to assimilate and adjust to different situations (Metzger & Robert, 2013), with the goal of overcoming obstacles, thus ensuring the survival, permanence, and continuity of society.
+
+Therefore, the research aimed to understand people's adaptation methods in the context of COVID-19 in 2020, in the province of Cusco, Peru. The specific objectives sought to examine prevalent behaviors and health mechanisms that Cusco residents develop in a pandemic environment.
+
+*Content*
+
+### *Scope or Study Area*
+
+The study was conducted in the province of Cusco, Peru, located in the southeastern part of the country. Many know it as a major global tourist attraction due to its significance as a key territory for the development of the Inca Empire. In this regard, the eight districts that make up the province were considered: Ccorca, Cusco, Poroy, Santiago, Saylla, San Jerónimo, San Sebastián, and Wanchaq. This province is part of the thirteen that constitute the Cusco region, which has the highest demographic presence and degree of socialization due to the interrelation of various activities that take place within its social space.
+
+## *Description of Methods*
+
+The research conducted was of a basic type, primarily aimed at producing various theoretical and scientific knowledge based on the information gathered from the different perspectives of the interviewed individuals. This research was approached descriptively, utilizing methods such as ethnomethodological and phenomenological approaches, which contributed to understanding behaviors and responses in the pandemic space. On one hand, the first mentioned method opens the way to studying the subjectivity of each individual through experience; while phenomenology analyzes the various interactions of individuals in their daily lives and how they have adapted and normalized these interactions. The years 2020 and 2022 were established to highlight the changes brought about by the COVID-19 virus, serving as a time frame for studying and analyzing the new actions individuals took in response to the situation. A sample of 40 individuals, all over 18 years old and who experienced infection, illness, and changes in adapting to the new reality, was taken.
+
+To gather key information related to the proposed objectives, two techniques were used. The first technique mentioned is the interview, which aimed to explore in-depth topics related to the study. This was constructed based on a semi-structured typology, comprising a set of open-ended and elaborated questions divided into seven sections with 60 items. On the other hand, the technique of participant observation was employed, using an observation guide prior to fieldwork.
+
+#### *Data Analysis*
+
+The collected data were processed simultaneously within the framework of obtaining, systematizing, organizing, and transcribing thematic information, categories, and units established based on emergent data and preliminary theoretical constructions. The software Atlas Ti was also utilized to code the obtained information more efficiently and without altering its content. The program was adjusted to two usage stages: systematization and coding, ultimately developing semantic networks, codes, and reports based on each projected objective.
+
+#### **Results and Discussion**
+
+*Social Behaviors in the Context of COVID-19 in the Population of Cusco*
+
+#### *Qualities*
+
+The pandemic situation, encompassing economic, health, and labor risks, served as sufficient motivation for the citizens of Cusco to engage in actions and behaviors that can be categorized as acts of solidarity among people. These actions were directed towards helping those in need, either with a specific purpose or goal actions that carried political nuances, such as marketing, social media fame, or personal satisfaction, or the religious sentiment of being blessed by God. The pandemic, on one hand, fostered this altruistic and generous spirit among part of the population. In this sense, it aligns with Giraldo & Ruiz (2019), who indicate that solidarity is a multidimensional attitude manifested in various forms of expression, such as helping, and that it also has schemes that can be evidenced from an objective and rational style, evoking a series of nuances related to the protection of the group and the closest family circle, as mentioned by Simmel (1910). These facts encompass various actions ranging from moral support to financial assistance, representing a phenomenon that is not homogeneous but rather diverse, expressed in different ways with the intent of general care. The dangers facing the world are evidence that solidarity and assistance in social spaces are of utmost importance in the pursuit of the survival of all its inhabitants (Žižek, 2020). That being said, the solidarity manifested among the population was, in general terms, a gregarious solidarity that carried a sense of collective survival as a species; this was evident from two perspectives: on one hand, those whose actions were channeled towards helping their immediate and intimate social circle (authentic) and those of a media character (convenience) seeking personal interests in return.
+
+In the chaotic scenario presented by the pandemic for the residents of Cusco, the persistence for life was the essential behavioral drive. This notion guided different responses, where the use of symbolic elements became a key factor, strengthening interpersonal relationships and feelings of resilience. In this regard, the most characteristic aspect among the Cusco population was religiosity, through which believers managed to calm their spirits and sustain themselves psychologically and spiritually, aligning with Hirschman (2004) that religion or other spiritual beliefs are links to find relief in situations of danger and crisis. In the same vein, according to Martínez & Evangelidou (2020), faith, belief, and religion represent a way of living by choosing God, where the individual feels peace and tranquility in the face of any problem they are experiencing. Given the above, it is highlighted that the frightened population instinctively reacts, dominated by fear and anxiety, contrasting with Benedicto (1995), clinging to life by any means necessary. The symbolic elements establish a stigma (signal) that allows identification within the population, generating persistence and unity. The joy in God was evident, and in the face of fear, it resulted in greater involvement with the spiritual realm, favored by the intense socio-religious context of the Cusco population prior to the pandemic.
+
+On the other hand, the sense of responsibility exhibited varied styles, from reckless and unconscious individuals to those who valued and protected their social space, as demonstrated by alarming infection rates and disobedience to government-imposed regulations. From these actions, it appears that responsibility is manifested from existing types (community and normative) to the completely organic (festive, labor-related, skeptical). Coinciding with the same acts lacking in responsibility, we distinguish different contagion models, the admitted or justified, which can be classified as high, medium, and low risk; the irrational, categorized into culpable and inexplicable. They resonate with Osterling & Castillo (2003), who state that responsibility is the legal figure responsible for unfolding in various areas and that despite being part of human life and society, it is often evaded.
+
+## *Personal Actions and Family Relationships*
+
+The pandemic moment brought about a hostile context, marked by economic and/or health problems, where the motivations for actions lie at the confluence of the individual and the collective. Therefore, it is complex to clearly delineate the certainty of collective survival over individual survival, being a stigma (trait) that marks personal actions and social relationships within the population. In this context, the group aspect
+
+fades and lacks significance, making the particular more evident in certain spaces. Cultural and social parameters were of utmost importance to understand the particular actions of individuals, where they evoked specific preferences concerning their functionality and uniqueness when carrying out rational actions in response to needs or instinctive responses they had to undertake due to group pressures. Thus, it became evident that fear is the driving force behind different actions, reaffirming what Johnson et al. (2020) suggest: fear is understood as an adaptive and protective response to the presence of real danger, which can even lead to changes in habits intended to safeguard an individual's health. Based on this, two types of fear can be identified: the first, "restrictive limiting," which prevents habitual acts before the pandemic, such as greeting; while the second, "motivating stimulating fear," provokes the adoption of new habits, such as wearing face masks. Additionally, Bauman (2006) adds that the term fear is used to refer to ignorance about how to confront and understand a problem, emphasizing that presented ineptitude only leads to misfortune. What Bauman mentions is evident in the pandemic, reflected in the barbarities committed by society in purchasing household items in colossal quantities, as well as in the State's implementation of absurd health measures without effectiveness. Thus, fear is perceived from two distinct angles of the individual, evaluating the stimulus generated by that fear: the first is "intrinsic fear," and the second is "extrinsic fear"; the first relates to natural internal fears, such as fear of death; while the second refers to fears arising in external scenarios where unexpected situations develop, mainly based on uncertainty, such as the fear of post-crisis. The conjunction of both previously mentioned fears generates a fear of "becoming," which the society experienced when facing the pandemic; this prompted the expansion of personal and interpersonal actions, where the intention of survival should be replicated in hopes of generating collective well-being.
+
+Furthermore, the fear of death for oneself or a loved one, losing a job that could lead to a family economic crisis, and the uncertain future were the most recurrent fears, which conditioned certain behaviors alien to human nature. Many of these manifested in impulses that triggered serious imbalances and social problems, supporting Lechner (1998) assertion that the most imprecise fear and anxiety stem from ignorance and the complex understanding built from the perspective of the "unknown," unleashing a chaotic environment.
+
+It is important to mention that these facts generated a contradictory logical idea known as "paradoxical perceptions," given the contrasting understanding related to significance: hospital - home, where the former is typically regarded as a space for healing and recovery but suffered an opposing representation by being considered dangerous and functionally less safe for combating illness. On the other hand, the latter holds a notion of security and protection established within their own homes.
+
+In the same vein, the mandatory social confinement sharply altered the way social relationships and coexistence among family members developed, showing a different way to navigate these processes, as the time spent together was vastly greater compared to the pre-COVID-19 context. Consequently, the functional roles of each family member varied; if one family member fell ill, another was obliged to take on their responsibilities, whether fundamental, individual, or shared. This led to a restructuring of internal activities within Cusco families, presented in two ways. The first was assimilative, meaning that a family member performed tasks outside their usual role with the intention of learning; the second was conflictual, as taking on new activities often led to conflicts within the family.
+
+It is important to note that the variation and restructuring of roles differed according to the type of family. Nuclear families, composed only of parents and children, strengthened their internal bonds to avoid contagion; on the other hand, extended families, made up of multiple nuclear families, were more prone to infection due to the need to frequently go out for food, resulting in a greater degree of replacement and restructuring of activities. This led to internal conflicts in coexistence; however, family unity was reinforced to face the pandemic, reaffirming what Hernández (2005) proposed: that the family is a component of survival, as it metabolizes needs and the necessary adaptation processes, which are significantly influenced by the meaning that its members attribute to life's elements.
+
+### *Virtual and Communicative Media*
+
+The internet, in the context of the pandemic, absorbed actions that previously required physical presence, such as working, studying, communicating, and even shopping, as the demand for deliveries and online purchases increased due to the fear of contagion. In this way, people, having lost the habits of performing actions that involve physical contact, decided to turn to these virtual platforms to stay connected and carry out activities that had been halted by the pandemic, but this time from a virtual universe. According to Finquelievich (2020), the internet took on an essential role in the daily lives of individuals, where no consideration was given to the gaps and voids present in our so-called knowledge society. This was evident in various pedagogical (virtual education), labor (telecommuting or remote work), and communicative (social networks) contexts, making it difficult for older adults to adapt to the new virtual interaction, which was inevitable due to technological resources and unfamiliarity with these platforms. It is worth mentioning that, according to García (2018), these technologies allow us to stay connected with people and family members who cannot be close due to distance, and remote communication serves as comfort.
+
+Additionally, people who use virtual media to inform themselves and communicate with distant individuals take advantage of the synchronous and asynchronous capabilities that they offer. However, virtual media, particularly through social networks, played a crucial role as a source of information about the pandemic, often disseminating distorted or false information, which caused panic and disorder in society. This was evident in what Mejía et al. (2020) asserted, stating that social media posts and television news were recognized as mechanisms that created and increased fear and exaggeration in the population. Thus, media influence human behavior in two ways: "omnipresent influence," where people receive this information without any discernment and fully believe what is told to them, generating panic and uncertainty; while the second, "reluctant influence," where individuals do not fully believe what the media reports and try to contrast the information with others to prove its veracity.
+
+The use of social networks and various websites as communication media, while bringing benefits such as receiving updated information about the pandemic and health situation in the country and continuing suspended activities like work or study, also led to a distancing within communicative processes and interactions, thus modifying and altering the quality of friendships, family, and work relationships. A critical point was the addictions and dependencies that these virtual inputs caused.
+
+The process of social relationships is composed of a symbolic space, which was not foreign to this scenario, where each gesture, the way of greeting (handshakes, kisses, distance hugs), signs (use of masks, facial shields, distancing, or other protective symbols), and daily habits now have a different interpretation compared to pre-pandemic and social confinement. As the German sociologist Luhmann (2006) asserts, by giving significance and function to a symbol, acceptance by society is provided, which, together with being understood and interrelated, generates approval of the same.
+
+#### *Contribution of Religion in the Context of COVID-19*
+
+In Cusco, the role of religion, understood in its multiple dimensions, came to the fore during the pandemic, being expressed through fundamental elements such as prayer, symbolic rituals, or, in some cases, simple gestures that unified believers in their worship of God. In this regard, it is important to highlight that a significant number of individuals surveyed reported that religious faith is part of their identity; for some, it was the only remaining source of hope and solace during moments of anxiety and uncertainty. This aligns with what Johnson et al. (2020) state, pointing out that spirituality contributes to managing stress, influencing how individuals cope with adversity and supporting resilience in crises.
+
+In this context, as reported by some respondents, religious celebrations and activities within their communities continued, despite the restrictions imposed due to COVID-19. Although some ceremonies were altered in their forms, the frequency and visibility of expressions of faith and worship through various practices served to create a sense of community and unity. Moreover, in many cases, the religious aspect became an escape route from the material difficulties presented by the pandemic. Thus, faith allowed believers to manage their fears and anxieties, building resilience amidst adversity, consistent with the
+
+perspectives of Metzger & Robert (2013), who state that religion fulfills a mediating function that impacts mental health and enhances well-being, aiding individuals in overcoming hardships.
+
+The perspective of beliefs and spirituality serves as a bridge that connects personal experiences to broader narratives, enhancing people's capacity to face difficult situations. As stated by Giddens (2014), such spiritual perspectives encourage individuals to seek connections with the divine, leading to increased psychological comfort and a greater sense of meaning in life, even in crisis situations like the pandemic.
+
+In this sense, many individuals stated that the pandemic had reinforced their faith, serving as an opportunity for personal and collective reflection, where community and interpersonal solidarity was exercised through the mechanisms of faith. The search for a profound connection with God emerged as a primary refuge amid the chaos, in addition to invoking support from their spiritual communities. Ultimately, it was evident that spirituality played a crucial role in coping with the challenges posed by COVID-19, facilitating a sense of belonging, meaning, and hope among individuals in Cusco.
+
+*Protective Responses in a COVID-19 Context in the Population of Cusco*
+
+### *Health*
+
+From the perspective of modern medicine, and amid a global health crisis, it was clear that the people of Cusco felt the need to adopt various protective measures they deemed necessary to curb the massive spread of the COVID-19 virus. Among the measures implemented were constant handwashing for 20 seconds with plenty of water and soap, the use of liquid and gel alcohol, excessive self-medication with drugs such as Ivermectin, Paracetamol, Hydroxychloroquine, Azithromycin, and chlorine dioxide, and the use of surgical masks and face shields. Similarly, households made use of foot mats to clean the soles of shoes and increased the use of bleach to disinfect surfaces, household items, and supermarket products. However, all the measures taken were not entirely fruitful (Moreira & Cartagena, 2020). It is important to highlight that the safeguards adopted by the population were appropriate; however, poor practices such as self-medication and lack of knowledge led to partial or total non-compliance with biosecurity protocols and government regulations.
+
+From the perspective of modern medicine, harmful and non-harmful prevention methods were evident. Harmful methods are those that exposed the population to health risks; for example, excessive use of bleach, alcohol, and gel on hands caused eye irritation and skin alterations, respectively, as well as the consumption of medications without prescriptions. In contrast, non-harmful methods are characterized by not causing internal or secondary damage to health, such as social distancing, the use of masks and face shields, handwashing, and ventilation of closed spaces. These preventive alternatives are primarily practiced by the population living in urban areas of each district.
+
+During the critical time, some residents went to hospitals, while others were treated at home, either with a private doctor, recommendations from relatives working in health, or experiences from other individuals who had recovered from the virus. Among the most commonly used medications for self-medication were Ivermectin, Azithromycin, chlorine dioxide, and Paracetamol. For many who were treated at home, that is, outside of hospitals, they met their recovery needs, while in other cases, they did not.
+
+Modern medicine is considered effective by many residents; however, due to ignorance, there is some distrust in it. Consequently, prevention was classified into preventive, protective, and null, characterizations based on the individual's impulse to protect themselves.
+
+The COVID-19 pandemic provided the people of Cusco with the opportunity to demonstrate that traditional medicine functioned as a means of prevention and improvement for individuals infected with the virus. Among the most demanded medicinal plants were ginger, garlic, eucalyptus, muña, rosemary, and matico. There are certain peculiarities that characterize traditional medicine, such as "prevention," which allows for reducing the impact of the virus on the body through immune reinforcement; "palliative," which
+
+alleviates discomfort caused by the virus; "alternative," which acts as a supplement to modern medicine; and "cultural," which allows for leaving an endocultural heritage among its members.
+
+In this context, treatments for residents infected with the virus were evident, involving a process related to social isolation, the use of medicine, and the balance of health influenced by two factors: the internal and the external. The first relates to the psychological aspect of the infected individual, while the second refers to family support and hospital care.
+
+At the same time, the health sector showed both negative and positive actions, from which a division was drawn based on health systems into: prosocial (solidary-responsible) and antisocial (selfish-irresponsible). In this way, the biopolitical discourse (exercise of power over individuals' lives) was distorted by being contemplated within a regressive conception that was poorly applicable to the context of poverty and illness being experienced, where only some could passively and indifferently overcome the situation (Calderón, 2021). Likewise, it is noteworthy that compliance with regulations was total, partial, and null in some cases, based on individual impetus, adhering to state regulations, often evading the law and not obeying imposed norms.
+
+Similarly, traditional medicine is a branch of the traditional wisdom acquired in the life of a society. In this sense, it aligns with Kleinman (cited in Eyzaguirre, 2016), indicating that the health system is a stage to highlight the social environment characterized by a peculiar composition of modern and traditional beliefs. This coexistence of subsystems is the basis for the current health system in Cusco.
+
+Regarding the process of employing and using mixed medicine, it aligns with Chacon (2021), who referred to this action as a "harmony of complementarity," referring to the constitution of Peruvian health subsystems of both traditional and modern types. The consumption of medications prescribed by health professionals was evident, alongside a culture rooted in Cusco society that complements its treatments with the use of medicinal plants.
+
+The use of natural remedies has been increasing in recent years, and since the emergence of COVID-19, the demand for medicinal plants has now significantly risen among people seeking to remedy or prevent symptoms caused by respiratory diseases. The availability of these plants is now evident in a large part of the local markets in the district of Cusco, from the historic center around the San Pedro central market to the Vinocanchon market in the district of San Jerónimo.
+
+In relation to the space chosen by the infected individuals to carry out their recovery periods, a strong preference was observed for using their homes, placing secondary importance on establishments provided by the Peruvian health system. This was due to the alarming and evident collapse, slow response capacity (regarding equipment, ICU beds, and medications), and fear of reinfection. Similarly, the Cusco population noted that supplies were insufficient, leading to a generalized perspective and opinion about the health sector and its establishments that resulted in an unfavorable assessment of a collapsed system and null hospital response capacity, corroborating what Zafra et al. (2015) indicated that health issues are undoubtedly one of the greatest obstacles, the low quality of care that society can observe.
+
+### **Conclusions**
+
+Throughout the period of spread and constant struggle against COVID-19, the residents of the province of Cusco were forced to develop various social strategies to optimally face the complex situation, objectively and conveniently reflecting their resilient and adaptive capacity through functional adjustments within social structure and interaction, assimilating behavioral modifications based on acts of solidarity, responsibility, and spiritual collection to endure the process not only from the subjective perspective but also focusing on confronting new mechanisms of contact and development, at the family level based on roles and group dynamics through objective technological virtual adjustments, setting aside direct interpersonal construction and assuming a new way of relating, with fear being a key stimulating element as a driving device for execution and motivation.
+
+Volume: 3, No: 7, pp. 4998 – 5007 ISSN: 2752-6798 (Print) | ISSN 2752-6801 (Online) https://ecohumanism.co.uk/joe/ecohumanism DOI: https://doi.org/10.62754/joe.v3i7.4604
+
+Regarding health, reactions were directed towards practices and uses of modern and traditional medicine, which within the socio-cultural construction are conceived as priorities, where the Western factor has not yet been able to eradicate palpable meanings and experiences built around the use of ethnomedicine. Ignorance was a constant, established in the consumption of medications without prescriptions, doses, and utility, as well as in the guidelines and regulations that the state contemplated for safeguarding lives. The intrusion of practical elements and protective instruments could not contain the spread of the virus, resulting in a hospital collapse that demonstrated the precariousness and weak response of the health sector.
+
+### **References**
+
+Albillos, B. (n.d.). An approach to the psychological concept of adaptation.
+
+https://revistadepedagogia.org/wp-content/uploads/2018/04/5-Aproximación-al-Concepto-Psicológico-de-Adaptación.pdf
+
+Allones, C. (2005). Theory of Social Action: Proposal of a Method. Journal of Political and Sociological Research, 4(2), 57- 68. http://www.redalyc.org/articulo.oa?id=38040204
+
+Almaraz, J. (2013). The sociological theory of Talcott Parsons: The issue of the methodological constitution of the object (2nd ed.). https://www.marcialpons.es/libros/la-teoria-sociologica-de-talcott-parsons/9788474766202/
+
+Arnal, M. D. (1998). Polish immigrants in Spain: The journey as a theoretical concept for the study of adaptation [Complutense University of Madrid]. https://eprints.ucm.es/id/eprint/2004/
+
+Barahona, A. (1983). Darwin and the concept of adaptation. In Sciences (Vol. 003, pp.10-13). https://www.revistacienciasunam.com/es/
+
+Bauman, Z. (2006). Liquid Fear: Contemporary Society and Its Fears. Barcelona: Paidós Ibérica, S.A.
+
+Benedicto, J. (1995). The construction of the political universes of citizens. In M. Luz(Ed.), Society and Politics: Topics in Political Sociology (pp. 1-37). Alianza Editorial. http://books.google.es/books?id=YZ1pAAAACAAJ
+
+Benítez, A. (1983). The concept of social action according to Ortega. Teorema:
+
+International Journal of Philosophy, 13(3), 505-522. https://dialnet.unirioja.es/servlet/articulo?codigo=2043910
+
+Calderón, (2021). COVID-19, Ontopolitics, Necropolitics, and a new philosophical and social concept in Peru and the world: Idiopolitics. Comuni@ccion: Journal of
+
+Research in Communication and Development, 12(1). https://doi.org/10.33595/2226-1478.12.1.457
+
+Garcia, C. (2018). Alterations of Postural Control in Dementia due to Alzheimer's
+
+Disease: Use of New Technologies for its Management. Master's in Nervous System Sciences. University of Almeria. Available at: http://repositorio.ual.es/bitstream/handle/10835/7013/TFM_GARCIA%20CARRICONDO%2c%20ISAAC.pd
+
+f?sequence=1&isAllowed=y
+
+Cyrulnik, B. (2010). Resilience and Adaptation: Family and School as Resilience Tutors (1st ed.). Gedisa Editorial.
+
+Chacón, R. (2021). Human adaptation strategies in a COVID-19 context in the Provinceof Cusco - 2020. Doctoral thesis. National University of Altiplano, Puno.
+
+Durkheim, E. (1986). The Rules of Sociological Method (1st ed.). Fondo de Cultura
+
+Económica.https://eva.fcs.edu.uy/pluginfile.php/45453/mod_resource/content/1/LAS_REGLAS_DEL_METODO_SO CIOLOGICO_-_EMILE_DURKHEIN_-_PDF.pdf
+
+Espinosa, M. (2010). Pierre Bourdieu and the Social Religious Fact: Analysis of His Work and Appropriations from Historical and Ethnographic Work. Journal of
+
+Work and Society, XIV(15), 131-142. www.unse.edu.ar/trabajoysociedad%0APierre
+
+Eyzaguirre, F. (2016). The process of incorporating traditional and alternative medicinein official health policies [National University of San Marcos]. http://www.minsalud.gov.co/salud/Documents/Observatorio Talento Humano en Salud/CARACTERIZACIÓN MEDICINA ALTERNATIVA Y TERAPIAS COMPLEMENTARIAS.pdf%0Ahttp://www.minsalud.gov.co/salud/Documents/Observatorio Talento
+
+Humano en Salud/CARACTERIZACI?N MEDICINA
+
+Finquelievich, S. (2020). The Light and Shadows of Knowledge Societies in Latin
+
+America during the COVID-19 Era. Revista Telos, 1-5. https://ri.conicet.gov.ar/handle/11336/117518
+
+Giddens, A. (2014). Sociology (6th ed.). Editorial: Alianza. www.alianzaeditorial.es
+
+Giraldo, Y., & Ruiz, A. (2019). Solidarity: Another way of being young in the communes of Medellín (21st ed.). National Pedagogical University; Latin American Councilof Social Sciences; University of Manizales; International Center for Educationand Human Development Foundation. http://biblioteca.clacso.edu.ar/clacso/gt/20190905072459/Libro_Solidaridad.pdf
+
+Hales, R., Stuart, Y., & Gabbard, G. (2012). Clinical Psychiatry Treatise (5th ed.).Artmed Publisher.
+
+Hernández, A. (2005). The family as a unit of survival, meaning, and change in psychosocial interventions: intentions and realities. Latin American Journal of
+
+Social Sciences, Childhood and Youth, 3(1), 57- 71.http://biblioteca.clacso.edu.ar/Colombia/alianzacindeumz/20131023053348/art.AngelaHernandez.pdf
+
+Hirschman, C. (2004). The role of religion in the origins and adaptation of immigrantgroups in the United States. International Migration Review, 38(3), 1206-1233. https://doi.org/10.1111/j.1747-7379.2004.tb00233.x
+
+Johnson, M., Saletti, L., & Tumas, N. (2020). Emotions, concerns, and reflectionsregarding the COVID-19 pandemic in Argentina. Ciencia e Saude Coletiva, 25, 2447-2456. https://doi.org/10.1590/1413-81232020256.1.10472020
+
+**Journal of Ecohumanism**
+
+2024
+
+Volume: 3, No: 7, pp. 4998 – 5007
+
+ISSN: 2752-6798 (Print) | ISSN 2752-6801 (Online) https://ecohumanism.co.uk/joe/ecohumanism DOI: https://doi.org/10.62754/joe.v3i7.4604
+
+Lechner, N. (1998). Our fears (pp. 179-198). Latin American
+
+Profiles.https://perfilesla.flacso.edu.mx/index.php/perfilesla/article/view/374/328 Light, D., Keller, S., & Craig, C. (1991). Sociology (5th ed.). Presencia Ltda.Luhmann, N. (2006). The Society of Society (1st
+
+ed.). Editorial: Herder. Madariaga, J. M. (2014). New perspectives on resilience: Expanding domains andpractices, Spain, Editorial: Gedisa. Available at: https://www.casadellibro.com/libro-nuevas-miradas-sobre-la-resiliencia-ampliando-ambitos-y -practica-
+
+s/9788497848626/2324684 Martínez, A., & Evangelidou, E. (2020). Anthropological reflections on the COVID-19pandemic. Spain: Rovira I Virgili University Publications. ISBN 8484248704.
+
+Mauss, M. (2009). The essay of the gift. In Essay on the Gift: Form and Function ofExchange in Archaic Societies (pp. 30- 31). http://mastor.cl/blog/wp-content/uploads/2017/05/MAUSS-Marcel-Ensayo-sobre-el-don-1924.pdf
+
+Mejia, C., Garay, L., Enriquez, M. de G., Moreno, A., Huaytán, K., Huancahuarii, N.,Julca, A., Alvarez, C., Choque, J., & Curioso, W. (2020). Perception of fear orexaggeration transmitted by the media in the Peruvian population during the COVID-19 pandemic. Rev. Cuba. Invest. Biomedicas, 39(2), 1-20.
+
+https://doi.org/https://orcid.org/0000-0002-5940-728 J.
+
+Metzger, P., & Robert, J. (2013). Elements of reflection on urban resilience: questionableuses and potential contributions. Territories, 28, 21-40.
+
+https://revistas.urosario.edu.co/index.php/territorios/article/view/2550
+
+Moreira, J. D., & Cartagena, L. A. (2020). Practices of hygiene measures to prevent COVID-19 in the homes of the 25 de julio cooperative in Guayaquil [Catholic University of Santiago de Guayaquil]. In Angewandte Chemie International
+
+Edition, 6(11), 951–952. http://repositorio.ucsg.edu.ec/handle/3317/15323Noguera, J. A. (2002). Are social facts a kind of mental facts? A materialist critique of John R. Searle's social ontology. Spanish Journal of Sociological Research, 2(99), 35-60. https://doi.org/10.2307/40184399
+
+Osorio, M. (2010). Mass and alternative tourism: Distinctions of modern/postmodernsociety. Latina Journal of Sociology, 4(1), 115-133.
+
+https://revistas.ucr.ac.cr/index.php/sociologia/article/view/5161
+
+Osterling, F., & Castillo, M. (2003). Civil Responsibility for the Transmission ofDiseases: AIDS and Responsibility. Law & Society, 0(20), 251-266.
+
+https://revistas.pucp.edu.pe/index.php/derechoysociedad/article/view/17313
+
+Parsons, T. (1968). The Structure of Social Action (J. Caballero & J. Castillo, Eds.; 2nd ed.). Guadarrama.
+
+Rambaut, L. (2001). Critical Dictionary of Social Psychology: According to the Theoryof Doctor Enrique Pichón-Riviere (1st ed.). Self-published.
+
+https://isbn.cloud/9789874333674/diccionario-critico-de-psicologia-social/
+
+Searle, J. (1997). The Construction of Social Reality. Editorial: Paidós.
+
+Simmel, G. (1910). How is Society Possible? American Journal of Sociology, 16(3), 372-391. https://www.journals.uchicago.edu/doi/pdf/10.1086/211904
+
+Slavoj, Ž. (2020). PANDEMIC!: COVID-19 Shakes the World (C. D. E. D. O. Psychoanalytic Ed.; 1st ed.).
+
+Totocagüena, M., & Riaño, M. (2016). An Approach to the Concepts of Assimilation,Segregation, and Cultural Integration through Musical Composition. Journal of
+
+Education and Humanities, 215-228.
+
+https://repositorio.unican.es/xmlui/handle/10902/11841
+
+Uriarte, J. D. D. (2005). Resilience: A New Perspective in DevelopmentalPsychopathology. Journal of Psychodidactics, 10(2), 61-79.
+
+https://www.redalyc.org/pdf/175/17510206.pdf
+
+Vanistendael, S., & Saavedra, E. (1967). Discussing the Concept of Resilience,Children's Rights, and Their Relationship. In E. Saavedra, G. Salas, C. Cornejo,& P. Morales (Eds.), Resilience and Quality of Life: Educational Psychology in Dialogue with Other Disciplines (1st ed., pp. 11-23). Catholic University of Maule.
+
+Vayda, A. P., & McCay, B. J. (1975). New Directions in Ecology and Ecological
+
+Anthropology. Annual Review of Anthropology, 4(1), 293-306.
+
+https://doi.org/10.1146/annurev.an.04.100175.001453
+
+Zafra, J. H., Veramendi, L., & Villa, N. (2015). Problems in the Quality of Health Care: An Opportunity for Improvement. Annals of the Faculty of Medicine, 76(1), 87.
+
+https://doi.org/10.15381/anales.v76i1.11084
+
+Žižek, S. (2020). Pandemic! COVID-19 Shakes the World. CEOPS (Center for Psychoanalytic Orientation Studies).
+

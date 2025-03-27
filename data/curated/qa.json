@@ -1,0 +1,334 @@
+{
+  "math1": {
+    "qselect1" : "Please give the best performing adverserial detection approach in terms of true negative rate on the CIFAR-10 dataset excluding feature filter with feature reservation ratio of 0.95. List only name and true negative rate like this: 'approach, 59.2%'.",
+    "aselect1" : "Non-local Mean, 99.26%",
+
+    "qfind1": "What average computational time in ms is listed for running an adverserial filter on ImageNet? Answer only with the number like so '29.2'",
+    "afind1": "35.1",
+
+    "qlist1" : "Name each image dataset used the paper. Write only a list like so: 'dataset1, dataset2, dataset3'",
+    "alist1" : "ImageNet, CIFAR-10",
+
+    "qcount1" : "How many words does the title contain? Answer with only a single number like so '5'",
+    "acount1" : "9",
+
+    "qcompute1" : "Compute the difference in true positive rates between the highest feature reservation ratios and lowest feature reservation ratios (α) on CIFAR-10. Provide the answer as a percentage like so: '2.6%'",
+    "acompute1" : "0.8%",
+
+    "qselect2" : "Which neural network architecture is mentioned as having the highest top-5 detection accuracy in the paper? Answer by only giving the name of the architecture",
+    "aselect2" : "Inception V3",
+
+    "qfind2" : "What is the university associated with the first author?",
+    "afind2" : "Wuhan University",
+
+    "qlist2" : "What types of adversarial attacks are mentioned in the paper? Answer like this 'L-BFGS, FGSM, ...'",
+    "alist2" : "L-BFGS, FGSM, FGVM, DeepFool, C&W attack, universal adversarial perturbation",
+
+    "qcount2" : "How many 'r's does the last letter of the main manuscript have? Exclude references, supporting information or other post script information. Answer in a single number like so '5'",
+    "acount2": "1",
+
+    "qcompute2" : "What do you get when you evaluate alpha_mu in equation (7) for M=5 and mu=0? Answer with a mathematical expression specified in tex like so $\\frac{1}{10}$",
+    "acompute2" : "$\\frac{1}{\\sqrt{5}}"
+  },
+
+  "math2": {
+    "qselect1" : "Which equation defines invariant pseudo-scalar at order 2? Give only the equation number like so '5.2'.",
+    "aselect1" : "5.7",
+
+    "qfind1": "Which equation defiens the explicit components of the t'Hooft symbols?  Give only the equation number like so '5.2'.",
+    "afind1": "A.1",
+
+    "qlist1" : "List all references that were published in the year 2002. Please list them in this format: '52,28,21'.",
+    "alist1" : "54,58,59",
+
+    "qcount1" : "How many words does the title contain? Answer with only a single number like so '5'",
+    "acount1" : "5",
+
+    "qcompute1" : "Based on the abstract, how many total scalar invariants were considered across quartic and quintic scalars combined? Answer with a single number like so '32 '",
+    "acompute1" : "116",
+
+    "qselect2" : "Which group structure correctly represents the splitting of Spin(4) as described in the paper? A: SO(2) x SO(2)? B: U(2) x U(2), C: SU(2)+ x SU(2)-, D: SO(3)+ x SO(3)-. Answer with only the letter of the correct choice e.g. 'B'.",
+    "aselect2" : "C",
+
+    "qfind2" : "From which country does this research originate? Answer with only a single word e.g. 'Germany'.",
+    "afind2" : "Korea",
+
+    "qlist2" : "What are the algebraic symmetry properties of the Riemann curvature tensor explicitly enumerated in section 2 of the paper?",
+    "alist2" : "Antisymmetry, The first Bianchi identity, Pair symmetry",
+
+    "qcount2" : "How many 'r's does the last letter of the main manuscript have? Exclude references, acknowledgements and supporting information or other post script information. Answer in a single number like so '5'",
+    "acount2": "0",
+
+    "qcompute2" : "Evaluate I(d) as given in section 5 for d = 7. Give the answer in a single number like so '230'",
+    "acompute2" : "175"
+
+  },
+
+  "foreign1" : {
+    "qselect1" : "Which city in Baja California had the highest total population in 1980? Answer like this 'city, total poulation'. ",
+    "aselect1" : "Mexicali, 510664",
+
+    "qlist1" : "Which surveys or other resources does this paper list as primary sources for the years 1988 and 1980 respectively? Answer like this 'survery1, resource2'.",
+    "alist1" : "Encuesta Continua de Migración de Baja California, Censo General de Población y vivienda",
+
+    "qfind1": "What was the population of baja california in 1980 and 1988 respectively? Answer like this '422942, 1251850'. Do not use any thousands-seperators.",
+    "afind1": "1177886, 1708100",
+
+    "qcount1" : "How many words does the title contain? Answer with only a single number like so '5'",
+    "acount1" : "9",
+
+    "qcompute1" : "What was the numerical increase in total population for Baja California from 1980 to 1988? Answer in a single number like so '259232'",
+    "acompute1" : "530214",
+
+    "qselect2" : "Which municipality received the least number of intermunicipal migrants between 1980-1988?\n(A) Ensenada\n(B) Mexicali\n(C) Tecate\n(D) Tijuana. Answer with only the letter of the correct choice e.g. 'A' ",
+    "aselect2" : "B",
+
+    "qfind2" : "What was the total number of intermunicipal migrants who moved to Tijuana between 1980-1988. Answer with only the number e.g. '5122'.",
+    "afind2" : "9661",
+
+    "qlist2" : "What are the municipalities of Baja California in 1988 as cited in the paper? Give them ordered from lowest to highest population size in 1988. Give only a list of municipalities e.g. 'TownA, Town B'",
+    "alist2" : "Tijuana, Mexicali, Ensenada, Tecate",
+
+    "qcount2" : "How many 'r's does the last letter of the main manuscript have? Exclude references, acknowledgements and supporting information or other post script information. Answer in a single number like so '5'",
+    "acount2": "1",
+
+    "qcompute2" : "What fraction of the total population of Baja California lived in Mexicali in 1988? Give your answer in percentages and round to the nearest integer. E.g. like so '48%'",
+    "acompute2" : "41%"
+
+  },
+
+  "foreign2" : {
+    "qselect1" : "Which reference was said to be effective at screen out different categories of imaging devices? Answer with only the referrence number like so '24'.",
+    "aselect1" : "40",
+
+    "qlist1" : "Which of the approaches displayed in the first tale use a pixel level approach. Answer in this format through the reference numbers of the approaches: '13,42,69'.",
+    "alist1" : "74, 43, 81, 44, 83",
+
+    "qfind1": "What network architecture was used by Bondi et al. in [38]? Answer in this format, though the architecture here is just an example: 'Multi layer Perceptron'.",
+    "afind1": "CNN | Convolutional neural network | Convolutional neural network (CNN)",
+
+    "qcount1" : "How many words are there in the English title of the paper? Give only the number in the answer e.g. '5'",
+    "acount1" : "10",
+
+    "qcompute1" : "Based on Table 2 (\"Results of image tampering location experiment\"), compute the difference in local accuracy when changing the threshold parameter Γ_conf from 0.2 to 0.0.",
+    "acompute1" : "0.022",
+
+    "qselect2" : "From the following options, select the correct city associated with the authors' institution:\n\nHangzhou\nBeijing\nTroyes\nShanghai",
+    "aselect2" : "Troyes",
+
+    "qfind2" : "What is the abbreviation of the neural network architecture used in reference [42] to reduce gradient vanishing? Respond in a single word.",
+    "afind2" : "DenseNet",
+
+    "qlist2" : "List all authors affiliated with Hangzhou Dianzi University. Give only the list of authors like so 'FIRSTNAMEA lastname, FIRSTNAME lastname, ...",
+    "alist2" : "QIAO Tong, YAO Hongwei, PAN Binmin, XU Ming",
+
+    "qcount2" : "How many 'r's does the last letter of the main manuscript have? Exclude references, acknowledgements and supporting information or other post script information. Answer in a single number like so '5' If the last word doesnt contain any r then the correct answer is zero.",
+    "acount2": "0",
+
+    "qcompute2" : "Based on Table 2, calculate the percentage increase in Local Accuracy when the Γ_conf parameter is changed from 0.2 to 0.0 (keeping Γ_dist constant at 0.7). Give only the final result in percentages and round to two decimals E.g. like so '2.52%'.",
+    "acompute2" : "3.09%"
+
+  },
+
+  "phys1" : {
+    "qselect1" : "Which of the listed procedure yields the highest value for the curvature C_{33}?",
+    "aselect1" : "VV10",
+
+    "qlist1" : "Which procedures were used in this paper to compute bulk properties of graphite? Answer like this 'procedure1, procedure2, procedure3'.",
+    "alist1" : "PBE, PBE + D2, PBE + D3, PBE + D3-BJ, PBE + TS, PBE + TS + SCS | PBE, PBE + D2, PBE + D3, PBE + D3-BJ, PBE + TS, PBE + TS + SCS.",
+
+    "afind1": "48",
+    "qfind1": "What is the Eb value for the PBE + TS + SCS + MBD value? Give the answer in angstrom without units e.g. '25.5'",
+
+    "qcount1" : "How many words are there in the title of the paper? Give only the number in the answer e.g. '5'",
+    "acount1" : "12",
+
+    "qcompute1" : "Compute the difference (in meV/atom) between the negative interlayer binding energy -Eb obtained by the PBE + TS and PBE + D3 methods. Give the value in meV like like so '23.04 meV'",
+    "acompute1" : "34.04",
+
+    "qselect2" : "Which vdW correction method discussed by the authors is explicitly recommended if computational cost or convergence is an issue?\n\n",
+    "aselect2" : "D3-BJ",
+
+    "qfind2" : "Which vdW correction method discussed provides the closest interlayer binding energy to the RPA reference value of 48 meV/atom? Name only the method e.g. like so 'PBE + TS'",
+    "afind2" : "PBE + D3",
+
+    "qlist2" : "List the first names of all authors who have a middle name. List only the first names like so 'firstnameA, firstnameB, ...",
+    "alist2" : "Celso, Luiz, Juarez",
+
+    "qcount2" : "How many 'r's does the last letter of the main manuscript have? Exclude appendix, references, acknowledgements and supporting information or other post script information. Answer in a single number like so '5' If the last word doesnt contain any r then the correct answer is zero.",
+    "acount2": "0",
+
+    "qcompute2" : "What is the the absolute deviation (in GPa) of the bulk modulus obtained by the PBE+D2 method from the experimental reference datum (35.6 GPa)? Answer like so '2.09 GPa'",
+    "acompute2" : "4.6 GPa"
+
+  },
+
+  "phys2" : {
+    "qselect1" : "Going by the definitions of the paper, which Pauli matrix contains the imaginaryt unit i? Give only the numebr like so:'3'",
+    "aselect1" : "2",
+
+    "qfind1": "Which equation establishes the unboundedness of the QHO energy spectrum? Answer in this format: '6.2'. If no such equation exists answer '#'",
+    "afind1": "#",
+
+    "qlist1" : "List all enumerated statements in V which are theorems i.e. not lemmas, corrolaries or remarks. Answer in this format '5.5, 5.8, 5.12'.",
+    "alist1" : "5.5, 5.6",
+
+    "qcount1" : "How many words are there in the title of the paper? Give only the number in the answer e.g. '5'",
+    "acount1" : "12",
+
+    "qcompute1" : "What do you obtain for the lower bound of the discrete spectrum of H if you substiute M^2 = 4*\\pi^2 and C_F = 1 based on the results of the paper? If necessary round your answer to the nearest integer and print your answer like so e.g. '7'.",
+    "acompute1" : "2",
+
+    "qselect2" : "Under the assumptions of Theorem 2.2, the spectrum of H is symmetric about: (A) the point M, (B) the origin or (C) infinity. Answer only with the letter of the correct answer e.g. 'A'",
+    "aselect2" : "B",
+
+    "qfind2" : "Find the equation number that defines the Hilbert space \\mathcal{H}. Answer with only the equation number like so (2.8)",
+    "afind2" : "(1.6)",
+
+    "qlist2" : "List all section numbers explicitly mentioned in the Introduction of this paper. List only the sections e.g. llike so 'III, V'. ",
+    "alist2" : "II, III, IV, V",
+
+    "qcount2" : "How many authors contributed to the paper?",
+    "acount2": "3",
+
+    "qcompute2" : "Equation (4.2) defines operators \\(S_{\\pm}(F)\\):\n. Suppose at some point \\(\\mathbf{x}\\), the following values hold: - \\(\\Delta = 4\\) - \\(M = 3\\) - \\(D_3 F(\\mathbf{x}) = 2\\) - \\(F(\\mathbf{x}) = \\frac{\\pi}{3}\\) Calculate the numerical value of \\(S_{+}(F)\\) at the point \\(\\mathbf{x}\\).",
+    "acompute2" : "-1"
+
+  },
+
+  "med1" : {
+    "qselect1" : "Which of the discussed methods yields the highest PSNR score for the highest noise level? Answer in this format 'method' e.g. 'BitFilter'.",
+    "aselect1" : "PET-LPD",
+
+    "qlist1" : "For which methods was the computing time cited as less than 5 seconds on average? Answer in this format: 'method1, method2'",
+    "alist1" : "PET-DDS",
+
+    "afind1": "BrainWeb",
+    "qfind1": "What dataset was used for evaluating performance of approaches? Answer in this format: 'dataset1'",
+
+    "qcount1" : "How many words are there in the title of the paper? Give only the number in the answer e.g. '5'",
+    "acount1" : "7",
+
+    "qcompute1" : "How much faster is PET-DDS compared to PET-Naive? Give only the numerical result as a percentage rounded to the nearest integer, e.g. '521%' ",
+    "acompute1" : "1065%",
+
+    "qselect2" : "Which sampling method introduced in this paper is computationally the fastest among PET-Naive, PET-DPS, and PET-DDS?",
+    "aselect2" : "PET-DDS",
+
+    "qfind2" : "Find the term used to describe PET reconstruction enhanced by an additional high-resolution image to promote shared features. Give only the term e.g. 'fine reconstruction'.",
+    "afind2" : "guided reconstruction",
+
+    "qlist2" : "List all tracers simulated in the 3D evaluation of the methods",
+    "alist2" : "FDG, Amyloid",
+
+    "qcount2" : "How many 'r's does the last letter of the main manuscript have? Exclude appendix, references, acknowledgements and supporting information or other post script information. Answer in a single number like so '5' If the last word doesnt contain any r then the correct answer is zero.",
+    "acount2": "0",
+
+    "qcompute2" : "How many seconds faster is PET-DDS reconstruction than PET-Naive reconstruction? Answer with only the number rounded to two decimals e.g. like so '24.26'",
+    "acompute2" : "37.62"
+
+},
+
+  "med2" : {
+    "qselect1": "Which of the identified hot targets for TB was presented as possibly causing heart rhythm issues? Answer in this format 'hot target'.",
+    "aselect1": "ATP Synthase | BDQ",
+
+    "qlist1": "List all references which come from the WHO. Answer in this format: '13, 16, 22'",
+    "alist1": "2, 4, 29, 31, 39, 40",
+,
+    "qfind1": "How many MDR-TB cases are there estimated to be in 2021? Answer with only the number like so: '295295'.",
+    "afind1": "450000",
+
+    "qcount1" : "How many words are in the title of the paper? Provide only the number like so '5'.",
+    "qanswer1" : "9",
+
+    "qcompute1" : "What is the total percentage of global TB cases contributed by India and Indonesia combined? Provide only the number in percentage rounded to one digit behind decimal e.g. like so '14.8%'",
+    "acompute1" : "37.2%",
+
+    "qselect2" : "Which of the following drugs is NOT part of the second-line MDR-TB treatment regimen?\n(a) Bedaquiline\n(b) Delamanid\n(c) Isoniazid\n(d) Linezolid. Answer only using the capital letter of the answer e.g. 'A'",
+    "aselect2" : "C",
+
+    "qfind2" : "What is the abbreviated name of the only currently licensed TB vaccine mentioned in the paper? Give onnly the abbreviation e.g. 'ABC'.",
+    "afind2" : "BCG",
+
+    "qlist2" : " List all four front-line anti-TB drugs mentioned in the standard DS-TB treatment regimen. List only abbreviations e.g. 'ABC, DEF, GHI, ...'.",
+    "alist2" : "INH, RIF, PZA, EMB",
+
+    "qcount2" : "How many 'r's does the last letter of the main manuscript have? Exclude appendix, references, acknowledgements and supporting information or other post script information. Answer in a single number like so '5'",
+    "acount2": "0",
+
+    "qcompute2" : "Based on Figure 1, if 10 million people develop TB annually and the estimated mortality rate is 14%, how many people die from TB each year? Answer with onnly the number e.g. like so '2152942'.",
+    "acompute2" : "1400000"
+
+  },
+  "misc1" : {
+    "qselect1" : "Which of the aspects of virtual and communicative media were cited as a source of fear and exaggeration in the population? Answer in this format 'Aspect1, aspect2'. Note that this is an example and the number of aspects is not meant to be accurate.",
+    "aselect1" : "Social networks, Television news | social media posts, television news | social media posts, television news.",
+
+    "qlist1": "What citations were invoked in the first paragraph in the Results and Discussion section? Answer in this format: 'name1, year, name2, year, name3, year",
+    "alist1": "Giraldo & Ruiz, 2019, Simmel, 1910, žižek, 2020 | Giraldo, 2019, Simmel, 1910, žižek, 2020",
+
+    "qfind1": "What was cited in the paper as facilitating a sense of belonging, meaning and hope among the population of Cusco? Answer in a single world, in this format: 'Resilience'.",
+    "afind1": "Spirituality",
+
+    "qcount1" : "How many words are in the title of the paper? Provide only the number like so '5'.",
+    "qanswer1" : "10",
+
+    "qcompute1" : "If each of the 40 participants was interviewed for 30 minutes, what is the total interview time in hours? Provide only the number like so",
+    "acompute1" : "20 hours",
+
+    "qselect2" : "Which of the following was not used as a protective measure in the study?\n\nA) Use of face masks\nB) Social distancing\nC) Consumption of Paracetamol\nD) Genetic testing\nAnswer: D) Genetic testing. Answer using only the letter for the correct answer, e.g. 'A'",
+    "aselect2" : "D",
+
+    "qfind2" : "Which software was used to analyze the collected data?",
+    "afind2" : "Atlas Ti",
+
+    "qlist2" : "List all the districts mentioned in the paper where the study was conducted.",
+    "alist2" : "Ccorca, Cusco, Poroy, Santiago, Saylla, San Jerónimo, San Sebastián, Wanchaq",
+
+    "qcount2" : "How many unique keywords are listed in the \"Keywords\" section? Provide only the number like so '10'",
+    "acount2": "5",
+
+    "qcompute2" : "If 9 out of 10 asked potential participants decline to particpate, how many participants do you need to ask to get the 40 participants in this study?",
+    "acompute2" : "400"
+
+
+  },
+    "misc2" : {
+      "qselect1": "Which of the explored index tracking methods displayed the lowest absolute percentage error? Anwer in this format 'method' e.g. 'Precise square tracking'.",
+      "aselect1": "Ridge",
+
+      "qfind1": "What does a single trade cost according to the TradeStation flat-fee pricing model? Answer through only a number like so '$2.48'",
+      "afind1": "$5.00",
+
+      "qlist1": "Which of the explored index tracking methods have a positive absolute percentage errors of greater than 10? Anwer in this format 'method1, method2'.",
+      "alist1": "Sector, Cluster",
+
+      "qcount1" : "How many words are in the title of the paper? Provide only the number like so '5'",
+      "acount1" : "7",
+
+      "qcompute1" : "Compute the total number of years covered in the out-of-sample backtesting mentioned in the abstract. Give only the number e.g. like so '14'.",
+      "acompute1" : "15",
+
+      "qselect2" : "Which similarity measure was ultimately chosen for spectral clustering? Give only the name the author of the measure e.g. like so 'Johnson'",
+      "aselect2" : "Spearman",
+
+      "qfind2" : "Find the year when the dataset used for the experiment started. Give only the year e.g. like so '2012'",
+      "afind2" : "2000",
+
+      "qlist2" : "List all candidate methods compared in the experiments.",
+      "alist2" : "Baseline, Ridge, Sector, Cluster",
+
+      "qcount2" : "How many 'r's does the last letter of the main manuscript have? Exclude appendix, references, acknowledgements and supporting information or other post script information. Answer in a single number like so '5'\"",
+      "acount2": "1",
+
+      "qcompute2" : "Compute the difference in total errors between the Sector and Cluster methods. Give only the end result to two digits behind decimal e.g. like so '294.95'",
+      "acompute2" : "155.32"
+
+  }
+}
+
+
+
+
+

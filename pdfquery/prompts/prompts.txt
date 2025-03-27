@@ -1,0 +1,11 @@
+- query
+Using the research paper provided to you, please answer the following question pertaining to the paper
+
+- refinement
+Now carefully check and correct for any mistakes in the original answer.
+Begin by reasoning about the desired answer and define it more clearly. Then quote relevant text passages, table rows or bibliography items both to cross examine the current answer and
+including material which may contain overlooked information.
+Only after quotation is complete, reason based on the quoted material
+Finally answer in the same format as before on the last line of your response without introducing 
+any additional wording. Your last line will be parsed automatically.)
+        
